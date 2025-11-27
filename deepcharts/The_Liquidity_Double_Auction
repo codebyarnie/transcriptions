@@ -1,0 +1,822 @@
+7
+Hi and welcome back to the orderflow
+mastery course. We're going to now start
+the market micro mechanics 101 course
+and
+the first lesson is understanding the
+auction.
+So in the academic world
+there's been a lot of studying on the
+models of auctions and how they work.
+Several nobel prizes in 2020 were
+awarded because of the elaborated theory
+of the auction.
+And you typically have three types of
+auction. You have a forward auction
+which is the classical one where you
+have a seller and a lot of buyers trying
+to you know u get their hands on
+whatever they're selling. You have a
+reverse auction and a double auction.
+The auction of
+liquidity in the markets which is the
+underlying mechanism that moves every
+single market in the world
+is a mix of a forward auction and a
+double auction. Okay. where you have
+both buyers and sellers interacting with
+each other.
+So, a classic Ford auction is something
+you might have seen in the movies or
+maybe you have attended one where
+there's a bunch of paintings being sold
+at the auction. There's a middleman, a
+auctioneer with his little hammer
+and all of the rich buyers that are
+called the biders because they make a
+bid, right? They offer a higher price
+than everyone else.
+So the participants of an auction, if we
+have to categorize them, are the
+auctioneer,
+the paintings themselves, so the the
+sellers, the the goods being sold at the
+auction and the biders. And in this
+case, the biders would be the demand,
+the paintings would be the supply and
+the auctioneer is the middleman, right?
+And
+in an auction, you would have again the
+biders, the auctioneer and the painting
+sold. And let's say the first price is
+a,000.
+Well, someone comes and says, I'll pay
+a million and a 100,000.
+So original price is 1 million. He's
+going to pay 100k more. Well, awesome.
+That's the new price. Who can offer
+more?
+Another guy come says, "I'll pay 1,200."
+Awesome. That's yours unless someone
+else is willing to pay a higher price.
+So the price of the good
+is determinated by this mechanism of is
+there anyone willing to pay more. This
+is an auction, right?
+And the liquidity auction works exactly
+the same way with the exact same type of
+participants.
+So you have the biders, the demand,
+the auctioneer, the middleman, and the
+paintings that are the supply. And the
+supply is not of paintings, but it's a
+supply of buy and sell orders. That's
+why it's a double auction because
+there's not just things being sold.
+There's things being sold and things to
+be bought. Both offered just like the
+paintings in the auction.
+they will not move price by themsel
+because there's they're just the
+paintings. Okay, someone else would
+decide if that price is good and if
+they're ready to pay a higher one. Then
+that one would be the biders. So
+the one who actually moves price up and
+down, which is the demand of buy and
+sell orders, the demand for paintings.
+And the middleman, the auctioneer will
+be the exchange in this case. So the
+exchange facilitates the auction by
+putting in contact
+the demand for liquidity, the demand for
+buy and sell orders,
+and the supply of buy and sell orders.
+Okay,
+we'll call the supply of buy and sell
+orders passive liquidity which is
+displayed in the so-called central limit
+order book and the demand for buy and
+sell orders aggressive liquidity which
+are simply market buyers and sellers. So
+people who just like we did before are
+clicking the buy market button.
+Well, these are the limit orders, the
+limit
+buttons.
+And of course in the middle in the
+exchange everything is facilitated
+through so-called matching algorithms
+that we will get to know shortly.
+
+9
+Hi, and welcome back to the market
+mechanics course. This is market
+mechanics 103. And
+how do we summarize what we've learned
+all of this auction activity
+in a chart that shows it?
+So, we said that these two contracts are
+matched, right? There's a buyers that's
+matched with the seller. It's a match.
+That's the new price. The candle opens.
+Now, let's add one more layer. Let's
+have a little table that summarizes for
+us aggressive buyers on the right hand
+side and aggressive sellers on the on
+the left hand side.
+So,
+that buyer that bought we place it here.
+So
+two contracts here mean an aggressive
+buyer was ready to accept to pay a
+slightly worse price to get filled. This
+is this doesn't mean there were two
+contracts
+bought or there were two buyers. Yes,
+but there were also two sellers. Always
+remember that.
+And zero here
+because no contract was sold
+aggressively here. Another
+one comes, takes two contracts at 101.
+It's a match. Price moves up and we put
+those two contracts here.
+Big five contract order placed by an
+aggressive sellers. Each those two
+contracts at 99, those three contracts
+as 98. So we place that five contract
+now that this is the new price. Two that
+were filled here and three that were
+filled here.
+and zero here of course.
+So this is what we call a footprint
+chart or a bid ask footprint chart.
+It basically summarizes for us
+what happened during the auction. What
+caused price to move? What are the
+orders that pushed market in a specific
+direction? How many were they?
+both from the aggressive, you know, side
+and the passive side because if there
+were three three contracts sold, they
+were aggressively selling and passively
+buying at the same time.
+So, the bid footprint basically tells us
+with a little bit more detail who was
+the aggressive and who was the passive.
+And if you want to summarize them, you
+get the volume profile. Okay, the volume
+profile is simply how much volume per
+price. So the volume of transactions.
+So here there was two transactions. Two
+transactions, two three or even better
+two order transacted, two orders
+transacted, one, two contracts, even
+better two contracts. Two contracts,
+three contracts.
+So we put them here.
+just with a histogram, right?
+So,
+if this is a sell candle
+now, let's say, you know, we we just
+bounced right off of a resistance or
+supply zone, however you want to call
+it. So, price went up up up
+sell candle. Well, a price action trader
+would wait for this to sell, right? They
+would wait
+for a confirmation from price. Okay.
+From price
+that sellers are present and dominating
+the market.
+An orderful trader will see this
+and already here he can see there was
+first a lot of aggressive sellings. We
+see a lot of red going on. But look at
+here.
+There was a buyer who tried to buy 50
+contracts
+and there was a seller willing to keep
+selling to him.
+This is what we call an absorption.
+That's why it's crucial to understand
+that these are not simply buyers. So,
+there's a buyers price will go up. No,
+how the how is the interaction
+presenting itself to us? or the
+interaction says there was someone
+trying to buy but there was someone as
+big
+selling at the same time and price from
+here did not go up.
+It stayed exactly where it was despite
+all of this buying,
+all of this aggressive buying.
+Well, clearly
+passive sellers are in control here.
+So it's not a surprise that right after
+that we see imbalance. See 0 0 3 1. So a
+lot of numbers here, low numbers here.
+That's an imbalance.
+So already from here we know that
+sellers are dominating
+while a price action trader would have
+to wait for here to understand it
+to even come close
+to the precision
+that orderflow can give you.
+Is that clear?
+I hope that's all clear.
+and I will see you in the next video.
+
+10
+Hi and welcome back to market mechanics
+in the orderflow mastery course from
+deep charts.
+In this video, we're going to go through
+order matching
+with a little more detail
+and get deep into the rabbit hole of how
+order matching works.
+So this is a scheme I've prepared for
+you guys that basically shows you
+that for example a trader, a market
+taker might buy market
+and as soon as he sends and clicks the
+buy market button,
+that order from his broker through a
+data feed
+will go to the exchange. change
+every order will be assigned if it's an
+aggressive order an aggressor order ID.
+So that order has a name. That order is
+tracked by the exchange.
+We know that order has a name. Okay,
+it's sent through the broker through the
+data feed to an exchange that through a
+matching algorithm
+will match it with
+our dear order book which is made by
+limit orders, right? Traders who placed
+limit orders here. So, we can see the
+path of that trader. That trader as a
+market maker put a limit order, a
+passive order that has its own ID, its
+own identification,
+its own name
+through the broker, through the data
+feed to the exchange placed in the book
+and the matching algo
+will
+take this buy market order with this
+aggressor ID. take this cell limit with
+a passive order ID and match them.
+And there's going to be a lot of orders
+here, right? It's not just one trader.
+There's probably thousands of traders in
+the order book placing buy limits all
+over the place. So,
+who gets executed first?
+That's what the matching algo is all
+about.
+So for example this is a first in first
+out right I wrote first in first out.
+So here you will have a queue of orders.
+So the first order that was placed here
+whatever quantity it is okay can be one
+can be four whatever quantity that order
+is whatever quantity of contracts that
+order will be the first one in the queue
+of the book. So chronologically
+speaking, the first one who put their
+order there will be the first one to get
+filled.
+Same thing with of course aggressive
+buyers.
+This is the FIFO, the first in first
+out.
+And there's many different types of
+matching algorithms. We're going to go
+deep into this one and discover another
+very important one and very common one
+in the next video.
+
+11
+Hi and welcome back to the market
+mechanics course. This is market
+mechanics 104 types of orderflow and
+data feeds.
+So whenever you're going to buy a data
+feed,
+you're going to get some level of data,
+right? As we discussed, you need to
+purchase a data feed that grants you
+access to the orderflow data.
+The first type is market by price data
+feed level one top of book.
+So when you get this
+and you open your depth of market,
+right, this guy, you're basically only
+going to be able to see
+the first two levels.
+As you can see here, 100 and 99. I have
+23 and 29, right? Only the first two.
+So, you're going to see the total amount
+per level of price
+market by price.
+Same with the orders. You're going to
+see all of the orders coming inside.
+That's all the data you get.
+Or you can get a market by price data
+feed level two that shows you the full
+market depth.
+This, for example, is a full depth book,
+right? You can see a lot of levels
+inside of the book.
+So you see all the levels up, all the
+levels down. You can see if there's
+areas of liquidity that are significant.
+For example, here I can clearly see if I
+make this bigger that I have 160.
+There's a big seller here.
+And yeah, there's other big sellers
+here. So, these are areas that are
+likely going to be visited by buyers.
+Okay.
+But still, I just know the total amount.
+The next level is
+seeing every single order. Okay, because
+here it can be, you know, this five
+contracts could be one big five contract
+order or multiple small orders of one
+each.
+That's market by order data
+or level three MBO market by order.
+So this is a granular version
+of orderflow that not only
+allows you to see the total amount
+but also tells you if there's something
+interesting if there is one order which
+is radically bigger than all the others.
+What are the big trades
+both from the resting order because
+every resting order has its own ID
+and every aggressor order as well has
+its own ID.
+So both from the aggressors
+and from the resting orders
+thanks to MBO market by order data
+the exchange is granting us access to
+order ids. So our deep charts platform
+can take these orders and replicate it
+and take this data and plot it on a
+chart in a way that we can filter out
+the real big traders.
+And that's the power of using a
+technology like deep charts with an MBO
+compatible data feed.
+This is also useful to spot icebergs
+because as you will learn later in this
+course,
+smart money tries to hide
+and it is able to hide from price action
+traders,
+but
+they cannot entirely hide from orderflow
+traders.
+And that is going to be all clear thanks
+to MBO data.
+So to summarize the features of each
+type of data feed, you have market by
+price level one, which is enough for
+basic footprint charts. Volume profile,
+you just need level one. No need for
+level two. No need to pay a lot of
+money,
+which by the way, by the way, is $20 a
+month. 20 or $30 a month. It's not good
+for depth of market analysis. So, if you
+want to see liquidity areas and stuff
+like that, you're not going to be able
+to see it with level one. With level
+two, yes, you have the full access to
+the DOM, to the depth of market, the
+whole order book with all of the buyers
+and the sellers and all of the liquidity
+areas.
+That's level two. It's essential,
+especially if you want to use heat maps
+like deep dome.
+Level three data is crucial
+because it provides
+order ids that allow allows our
+technology
+to aggregate fractional trades and
+native icebergs
+which we'll get deep in the next
+lessons. The most common futures data
+feed are DX feed, rhythmic, and CQG.
+rhythmic being the only one that has
+fully accessible and fully let's say
+um
+playable with APIs.
+So with rhythmic you can
+see native icebergs specifically with DX
+feed you can also have level three data
+but you don't have there's some problems
+with the APIs that that we're trying to
+solve. Uh you can see big trades for
+example with DX feed um but you're not
+really seeing the icebergs. Okay, that's
+that's a slight different that we're
+going to get deep into later. Don't
+worry if you don't understand what I'm
+saying now. But um these are the most
+common types. These are very high
+quality data feeds. They're reliable and
+you know, they're very very very solid.
+They give you the real exact data with
+probably the least amount of small
+mistakes here and there, but almost
+close to zero mistakes in the order
+flow. So absolutely phenomenal tools. Uh
+we're proud to have all of them in our
+platforms and these are the most common
+ones.
+
+12
+Hi and welcome back to the orderflow
+mastery course. In this lesson of market
+mechanics 105, we'll get to meet
+different types of matching algorithms.
+The first one, as we know, is the first
+in first out system. So per every level
+of price, we're going to have passive
+buyers and passive sellers, right?
+And
+these are every single orders. Let's
+see. Let's say this is market by order,
+right? And let's say
+any buyer or any seller comes. The first
+order to be placed in the queue
+chronologically will be the first one to
+get filled. So if this guy came here
+first, he's going to get filled first,
+then the next one, then the next one,
+then the next one, then the next one.
+Same here. first this one then this one
+then this one and so on and so forth.
+This is very easy first in first out
+very common
+but someone even something even more
+common is the first in first out with
+lead market maker. So in the book
+in the you know market maker side of the
+book you will have a market making firm
+or multiple market making firms
+providing liquidity.
+Why do they do that? Well that's a very
+profitable business model that I can
+explain you pretty quickly. Um
+but fundamentally what they do is they
+provide
+both
+bid
+and ask at the same time.
+So
+their business model is to always sell
+slightly up and always buy slightly
+down. So if they sell 10 contracts at
+100 and then buy them back at 99,
+they're always earning
+this $1 point, right? Which as we
+discussed
+is the spread.
+So, if spread
+is what market takers
+pay to trade because they're in a FOMO
+and they can't wait to get their hands
+on a buyer on a seller,
+the spread
+that they pay is
+a hidden fee
+that markets makers earn instead.
+That's why you see often price going up,
+down, up, down, up, down, up, down,
+uptick, down tick, uptick, down tick,
+uptick, down tick. Every uptick and
+every down tick is huge amounts of money
+for market makers.
+So, they're not just
+putting a sell limit here because they
+hope price will go down.
+Yes, they hope price will go down of a
+single tick,
+but they're constantly buying, selling,
+buying, selling, buying, selling,
+buying, selling. And this is a very
+profitable business model for them, but
+it's also really good for the exchange
+because the exchange can guarantee a
+constant level of liquidity with really
+tight spreads. I mean, this is a
+onepoint spread. I'm okay to pay that.
+You know,
+if there was no market makers here, you
+might have a lot of voids in the
+liquidity at some point and you're going
+to have to pay crazy spreads and traders
+are not incentivized to trade there and
+to pay commissions to the exchange
+because every time you trade, you pay a
+commission to the exchange. Who do you
+think you pay to? Just your broker? No,
+sir.
+So it's in the best interest of the
+exchange to have market makers because
+they can be able to provide tighter
+spreads.
+So
+they will have a privilege and with a
+first in first out with lead market
+maker type of matching algorithm for
+order routing in exchanges
+you get all of the volume that comes
+inside of a as aggressive orders
+split pro rata between
+a market maker and then with a normal FO
+to all of the rest of the market
+participants. So 40% of the volume will
+go to them. The 60%
+60% will go to these guys. 40% will go
+to the market maker who's leading. So
+the market making firms 60% will go to
+the 5Q.
+Okay.
+So they get guaranteed 40% of all the
+the aggressor liquidity that comes
+inside of the market. So it's a good
+business model for them. Traders get
+guaranteed low spreads and the exchange
+earns more money. It's a win-win for
+everyone. But
+this does not apply
+under big impact data release news. So
+the only exception for market makers to
+not provide liquidity is during big
+impact data release
+eg NFP CPI FMC because if you think
+about it if for example a really good
+news come up and markets wants to pump
+up there's not going to be uptick down
+tick uptick down tick it's going to be
+uptick uptick uptick uptick uptick
+uptick and as market makers will be
+always
+here selling
+But they will not be able to close off
+their position and buy and be neutral to
+market direction.
+And price will not go one tick up, one
+tick down, tic tac, tic tac, tic tac,
+and make them earn a lot of money.
+They're going to lose, lose, lose, lose,
+lose, lose.
+Okay?
+So that's why they have the ability
+whenever they want to delete all of the
+liquidity they placed in the book for
+just a couple of milliseconds right
+after a big news, a very big impact news
+has been released.
+They can do it. They have this
+permission from the exchange and they
+still get the lead market maker status.
+And this also tells you something
+interesting that market makers love
+ranging markets. upticks, down ticks,
+upticks, down ticks, because that's
+where they make money.
+They don't What they don't like is price
+simply moving up.
+Uh market makers don't really like this
+because they can't earn a lot of money.
+Actually, they're losing
+and that's why they always look for
+liquidity and the the whole auction
+market theory model comes into place.
+But we'll get deep into that in the next
+few lessons.
+
+8
+Hi and welcome back to micro mechanics
+102.
+We're going to learn the double
+liquidity auction.
+So as we've discussed,
+these are the paintings being sold at
+the auction, right? And we call these
+market makers because they make the
+market
+also known as passive liquidity or
+resting orders. These are nothing more
+than
+orders of you know buy and sell orders
+displayed in the order book also known
+as market depth. And up here you have
+the sell limits.
+So, passive sellers,
+also known as the offer or the ask,
+and these are basically just offering to
+be a seller. Okay? They're saying, "Hey,
+if you want, I'm selling at this price."
+They are the auction of sell orders, the
+sell paintings of the auction. And they
+wait for someone to accept their sell
+offers. Just like when you place a sell
+limit. You wait for someone and you wait
+for the market to reach your level and
+fill you. Right
+below here, same thing. You have buy
+limits, passive buyers, also known as
+the bids,
+and they're offering to be a buyer.
+Okay? They are the auction of buy
+paintings.
+And they wait for someone to accept
+their buy offer. Okay? So, they are just
+waiting.
+And we call the closest bid and the
+closest ask to the current price the
+best bid and the best ask.
+So the best ask is the best possible
+price
+at which there's at least a seller
+available in the book. The best bid is
+the best possible price where there's at
+least a buyer in the book.
+And again, these are just resting
+orders, okay? There's
+offers of liquidity,
+just like paintings sold at an auction.
+Someone now needs to raise their hand in
+the audience and take action and accept
+paying a slightly worse price for the
+trade to happen. If you want to get your
+hands on the Mona Lisa, you're going to
+pay a little more if you want it because
+other people are ready to pay.
+So the bidder comes and say hey I will
+buy two contracts market
+and he will get filled by being a market
+taker. Okay as we define it a aggressive
+buyer. So he says I will buy two
+contracts market. So those two contracts
+that were present here will go all the
+way here and get matched with this two
+buy contract. So to buy two sell they're
+matched. It's a match. And who did the
+matching is the matching algorithms,
+the CME, the exchange.
+Now this is the new price, right?
+Because as soon as someone raises the
+hands in the audience, that becomes the
+new price that someone needs to beat,
+right? Exactly the same. Now this is the
+new price. The new price is set as soon
+as there's a match between a aggressive
+participants and a passive one.
+And with normal candles, this is where
+your candle would open. Right now,
+another one comes says, I will buy two
+contracts at the best possible price.
+Well, those two contracts are matched
+with two contracts
+from those five that were here at 101.
+That's a match. And boom, price sticks
+up. And that's because the new price is
+wherever there was at least one match
+between an aggressor and a resting
+order.
+Now a seller finally comes and says,
+"Hey, I will sell five contracts at the
+best buyer."
+Well, who's the best buyer here? This
+guy. Two contracts at 99. Well, he wants
+five. Who's the next best buyer here?
+Okay. So, I'm going to buy some here and
+some here. Yep.
+That is called slippage,
+right? Probably heard about it.
+So you get this order got slipped and
+some of it got filled here and some of
+it got filled here. So
+the average price of this trade will
+actually be somewhere around the middle
+because I paid 99 I paid 98. So probably
+the average is like 98.5 or something
+right?
+But the last place, the last price level
+where there was a match
+was this one, right? So that becomes the
+new price and the candle will tick down.
+Okay? This is the mechanics behind every
+single price movement
+that you see inside of charts.
+That's it.
+Okay.
+Now, the best ask and the best bid are
+far away from each other, right? They
+were here close and now they're far. We
+call the difference between bid and ask
+the spread.
+And in low liquidity environments, so
+where there's no liquidity, no
+counterpart, no sell or buy orders
+counterparting
+the aggressors,
+spread widens.
+So
+markets to recap just like in an auction
+move because someone is willing to pay a
+slightly higher price that we call
+spread.
+So if you're ready to sp to pay a spread
+and buy market or sell market, you're
+going to move price even with just one
+contract.
+So markets, prices in financial markets
+move
+because someone is willing to pay a
+slightly higher or lower price to buy or
+sell
+as long as they can get their hands on a
+counterpart.
+Because think about it, you could if you
+wanted to buy, you have two options. You
+either place a buy offer, so you just
+offer to buy
+and place a buy limit at a slightly
+better price
+and hope that an aggressive seller would
+accept that offer.
+Or you immediately pay a higher price
+to guarantee you're going to get filled
+now, but you're going to have to accept
+a slightly worse price.
+Do you understand the difference?
+So markets are moved by traders who
+cannot afford to wait to get filled.
+Kind of in a FOMO, right? I cannot wait
+to get filled. I want to be in the
+market. Now
+these type of participants are the one
+who move the market.
+Who causes a change in price.
+Now, let's imagine, for example, that
+Apple has just discovered a new
+technology that will 10x their profits
+because they're going to make their
+iPhones finally make coffee as well.
+What will happen to their stock price?
+Well, this is the let's pretend this is
+the order book of Apple stocks. Well,
+first of all, you're going to see less
+aggress less passive sellers, right?
+Because no one is really willing to sell
+so much now.
+So that also means that compared to
+here, it's going to be way faster for
+price to go up because if 10 aggressors
+come now, the price will be 102. If 10
+aggressors come now, price will likely
+be way up. So the amount of liquidity
+that's here will determine how fast
+price goes up.
+And if is and if there is a huge
+imbalance between the bids
+and the asks it's likely that this you
+know direction is the path of least
+resistance.
+So now everyone buys okay and price
+shoots up
+and as we know it's a very well
+doumented phenomenon happens which is
+price pokes through the ceiling of
+traders.
+So this does not happen because there's
+more buyers than sellers. As a lot of
+people say the market is long, the
+market is buying. No, there's always a
+buyer and a seller. They're just matched
+at a different price and whoever was the
+one accepting the worst price is the one
+moving it.
+So this does not happen because there's
+more buyers than sellers, but because
+buyers were willing to pay worse and
+worse prices as long as they could get
+their hands on a seller, which is a
+slight but very important crucial
+difference.

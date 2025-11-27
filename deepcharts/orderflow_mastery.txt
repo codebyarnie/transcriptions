@@ -1,0 +1,902 @@
+course by deep charts. My name is Andrea
+and I will take you with this course
+from zero to understanding everything
+you need to know about orderflow,
+understanding how to read the auction,
+understand how all of the market
+mechanics work and most of the trading
+tools. So, I'm very excited to have you
+here. Welcome.
+So what you'll learn in this course is
+first what is orderflow and why you
+should even use it in the first place.
+Uh understanding futures contracts
+everything you need to know about
+futures contracts.
+How the double auction works. The types
+of order flows and data feeds. The main
+matching algorithms that exist
+the time and sales tools and how to read
+it.
+Then we're going to get a look to the
+depth of market
+and let's say these are the two main
+orderflow tools. You know they they are
+the basic they are the raw version the
+rawest version of orderflow. This is the
+old school stuff that a lot of people in
+the pits used to only look at these two
+tools the time and sales and the depth
+of market and trade just out of those
+without even looking at price charts. So
+it's going to be very awesome. And then
+we're going to have reading deep print.
+So everything that relates to orderflow
+candles and what is commonly known as
+footprint charts
+and reading the volume profile. So this
+is we get deep into tools that take
+order flow and translate it in a visual
+way in a way that we can follow the big
+money.
+Then we have reading the VWAP which is
+um as you all know a very important
+institutional reference for fragmenting
+orders and increasing execution alpha.
+And we're going to understand how to
+read it, how to set it up and
+everything. uh we're going to read the
+CVD which is a cumulative volume delta
+indicator that basically takes the
+aggregate of uh the order flow you see
+inside of a session basically displays
+it in a way that clearly shows you
+market pressure in a very intuitive way.
+Then we're going to understand the
+basics of the liquidity auction theory
+and the actual market theory model. Uh
+the types of auctions seen from the
+footprint chart,
+some typical footprint patterns and
+finally the session flow. how does the
+auction flows inside of a session? Is
+there a rhythm that we can follow
+throughout every single day? Um, and
+that we can read through orderflow. So,
+this is what you're going to learn learn
+inside of this course. Um, we're
+probably going to make these slides
+available for you anyways. And
+you're going to be able to download
+them. You're going to be able to
+re-watch them. You can re-watch this
+course how many times you want. I
+strongly advise you to watch it as many
+times as you need to truly grasp and
+understand everything because we're
+going to go deep deep deep into all of
+the good stuff. And don't worry if at
+the beginning as a beginner it's going
+to be a little bit harder to maybe catch
+up with everything. I can assure you if
+I'm going to try my absolute best to
+make it super super super duper simple
+and to
+you know remind you to rewatch it at
+least a couple times. Okay? at least a
+couple times. It's really really needed
+to properly understand everything. So
+maybe take pen and paper if you feel
+like or download the slides and then I
+don't know scratch on them and you know
+u
+sketch some drawings on top of it or
+whatever and
+enjoy the course.
+
+2
+Hi and welcome to lesson number one of
+the orderflow mastery course by deep
+charts. In this first lesson, we'll
+first understand what is orderflow and
+why you should use it in the first
+place.
+So
+price candlesticks are a phenomenal
+tool. Okay, just reading candlestick is
+a already a pretty powerful way to
+analyze markets if you do it in the
+right way.
+Still,
+just using candlesticks,
+I personally
+objectively
+think it's just like using a good old
+bow and arrow, right? Does it work? Yes.
+Does it still, you know, can you still
+hit the target?
+Yes, but it's a primitive tool.
+It it was born in the 1950s, sorry, in
+the 1850s.
+So, it has a great legacy, but it's also
+somewhat obsolete, even though it is
+still very actual.
+When you hop onto Orderflow,
+you're using a ballistic bow, for
+example, it's the same thing.
+You can be more powerful. You can be
+more precise.
+You can have more tools at your disposal
+to allow you to make you more precise,
+hit further targets,
+hit targets with a much higher accuracy.
+That's what orderflow is. That's why we
+put candles on steroids, how I like to
+say,
+because we want to improve the tools we
+have in the first place
+to give us a better informationational
+edge and advantage on most traders.
+So, can you hit the target with both of
+these tools? Yes,
+absolutely. Yes. But which one increases
+your edge?
+of course the second one. So that's the
+one you should master to begin with.
+That's why we want to study orderflow.
+That's why we want to use orderflow
+charts
+to get anformational advantage. If we
+are a detective
+and we do not
+take into consideration all of the
+evidence,
+we could arrive to the wrong
+conclusions.
+So you cannot allow yourself as a
+detective of market to not detect
+crucial information.
+That's what orderflow is. And that's why
+that's the language you should master
+because we're trying to understand the
+language of markets, right?
+And price is the result of that
+language.
+It's the verbs. It's the words. It's the
+verbal part of the language of the
+language of the markets.
+But orderflow
+is the root.
+Orderflow is the emotions of the
+language. Orderflow is the details and
+the body language.
+Orderflow is the deeper layer of
+understanding the language of the
+markets. And if you are going to be able
+to master orderflow,
+you're going to reach a deeper level of
+narrative that simply cannot be
+understood just by looking at price.
+You can assume it through price. You can
+guess it through price. Sometimes in an
+accurate way, sometimes not really.
+So master orderflow
+let's make a few example of the types of
+orderflow tools that exist and that you
+as a member of deep chart will be able
+to use.
+First one is is the footprint chart and
+um as we call it the dip print because
+it has a vast array of
+types of visualizations and
+orderflow dynamic visualizations
+that make it deeper than most footprint
+charts you see.
+And it basically showcases aggressive
+buyers on this side in the in the green
+side of the candle in the right hand
+side of the candle
+and aggressive sellers on this other
+side
+which is the purple part.
+And all of these aggressive sellers
+and aggressive buyers
+have an interaction with passive buyers
+and passive seller respectively.
+So, aggressive buyers buys from passive
+sellers and you see them here. Okay. So,
+here 88 contracts were bought and sold,
+okay, at the same time because if
+there's a buyer, there needs to be a
+seller. So, this one is buyers who
+accepted paying higher prices. These
+ones are sellers who accepted paying
+lower prices. And we'll go right deep
+into what this exactly means
+very shortly, but I invite you just to
+look at this for example, right? This
+was a candle that went down at first.
+So, we had the open here and the candle
+went down and it found
+a so-called iceberg order, a wall of
+orders that no price action trader can
+even imagine is there.
+And right after that, you had a huge run
+to the buy side.
+These things you cannot see with price
+action. Well, that's why we use
+footprint charts because we can see
+things that are simply not seenable
+through price.
+You have a huge seller here trying to
+push down, but there's a huge buyers
+blocking that inertia and then pumping
+right price up with a momentum ignition
+and shooting market orders in the market
+and filling the order order book and
+eating it out completely. So this is one
+of the tools. Another tools is you know
+all of the wide range of volumetric
+charts
+and you get the volume profile or volume
+by price which basically tells you how
+much volume was traded at every single
+level of price either of this session
+with the session volume profile or
+cumulatively in all of the charts that
+you see which is the cumulative volume
+profile
+and it's called volume by price because
+it tells you the total volume of trading
+of
+trading activity, buying and selling
+activity at each level of price. So it
+indirectly tells you how much money was
+traded here. How much money changed
+hands inside of this price range at this
+specific time.
+So this is a very powerful and crucial
+indicator to follow the big money in the
+markets because you know you just know
+that wherever there's big areas
+and big big big trading volume is
+because there's a big big big big big
+trader. If there's thousands and
+thousands and thousands of contracts all
+stacked in a single price level, it
+cannot be a retail.
+It's probably institutional algorithms
+getting their fill, right? Or really
+really big traders.
+So
+we have them per level of price
+and also by time. This is volume by
+time. And volume by time tells us
+how much participation was there in a
+price swing.
+How much activity, how much interest and
+participation was there in a determined
+price movement?
+That's volume by time. And it comes also
+in a vast array of ways and and and
+different visualizations and fashions.
+Then you have the liquidity heat map
+which is another amazing tool
+that you might know as deep do or deep
+map.
+that basically showcases passive
+sellers. So all of the sell liquidity
+resting in the order book waiting for an
+aggressor to come and pick it up.
+So the market maker liquidity. Okay,
+this is called the market maker
+liquidity. We have passive sellers and
+passive buyers. And we can have an heat
+map that shows us the historical
+depth of market which is you know this
+liquidity this passive buyers and
+sellers also in the past. So it tells us
+with a heat map which are the areas with
+the highest level
+of institutional liquidity
+of market making liquidity.
+There's huge areas with
+ridiculous amounts
+of market making liquidity. Hundreds,
+thousands of contracts, layers and
+stacked all in a single price range that
+price can simply cannot go through that
+easily and that acts as support and
+resistance. The same here
+a big big big level of liquidity that as
+soon as gets deleted it's completely ran
+through.
+This is other crucial information
+to take informed trading decisions.
+Then you have all of the world of volume
+based indicators which are absolutely
+phenomenal tools like the VWAP that we
+mentioned like the CVD the volume
+weighted average price which is not just
+a you know um an EMA or that type of
+chart. It is an institutional reference
+reference which is widely used as a beex
+execution
+algorithm
+and reference
+and then you have CBD which is the
+cumulative volume delta which again is a
+measure of who's more aggressive who's
+more passive okay
+so what is behind these tools well a
+flow of orders buy and sell orders aka
+supply and demand.
+An orderflow chart are a summary of the
+decisions of market participants. It
+shows you how and why
+price did or will do something and it
+gives you a clear picture of who's
+dominating the market. Auction
+at a specific time
+with a level of clarity and accuracy
+that price action alone simply cannot
+provide.
+It's pure, it's pure and raw trading
+data that most retail traders are
+actively choosing to stay blind to
+because it's too complicated and now
+that's your advantage.
+Now let's go quickly through some best
+use cases for orderflow. Where is best
+to use it? Well, for day trading
+absolutely yes. For scalping that's
+where you can give your best with
+orderflow.
+for swing trading. Yeah, not necessarily
+orderflow per se. So footprint charts
+and short-term orderflow liquidity
+dynamics.
+But for swing trading, if you are a
+swing trader, if you want to be and
+become a swing traders, volume profiles
+are an absolutely crucial and phenomenal
+tool to assess which one are the areas
+with the highest likelihood of having a
+responsive type of auction that will
+move price up or down.
+So, if you're swinging traders and
+you're not using volume profiles, you're
+missing on a bunch of cool stuff. Now,
+the best time frames to use orderflow
+are typically I'm talking about
+footprint charts and short-term
+orderflow dynamics, of course, the
+15-second charts up to the 1 minute, the
+3 minute, the 5 minute chart. The more
+you go up, the more noise you're going
+to see and the less you're going to be
+able to take advantage of short-term
+orderflow dynamics and the more you're
+going to have to realize that the tool
+that can help you is actually volume
+profile. But for shortterm time frames,
+that's when order gives its absolute
+best. Now, the types of asset in which
+you can read orderflow are basically
+anything that has some centralized
+exchange, right? Right? So you have
+futures contracts based on equity
+indices like the S&P 500 and the NASDAQ
+but also commodities like gold or US oil
+or you know equity indices like FDAX.
+Then the equity and the stock market. So
+single stocks they also provide volume
+and
+the cryptocurrency market even though as
+it's traded over over the counter in
+many different exchanges you have to at
+least aggregate the volume and the you
+know the trading activity data from
+a variety of different exchanges like I
+don't know Coinbase and Bybit and
+Binance. You need to put them all
+together and have them in a single
+chart, which is something that is going
+to be delivered in our technologies very
+soon. And yeah, anything that has some
+level of centralized exchange or that
+can be aggregated in a way that makes
+sense
+is a potential orderflow tradable asset
+class.
+Now the types of strategies
+you can literally build any type of
+strategy with orderflow because remember
+orderflow is a tool is not a strategy is
+an a tool that helps you have a clearer
+vision and a clearer understanding of
+current market sentiment and mechanics
+and pressure and initiative and
+responsiveness.
+It's not a strategy in and of itself.
+It's a tool to build strategies and
+narratives
+and you can use it for breakouts and
+retests, min reversions, momentum
+trading, intraday swings, literally
+anything that is intraday scalping.
+Orderflow can help you
+now. So,
+so get ready and I will see you. So, get
+ready. Whatever type of strategies you
+use, even if even if it's a price action
+strategy, if it's an intraday or
+scalping strategy, you're going to find
+help inside of this course, of this
+program, of the software.
+Just take time to learn the language and
+you will discover a next level
+offormational advantage that will help
+support and facilitate your trading
+decisions.
+
+3
+Hi and welcome back to the course. Uh
+this is futures 101 understanding
+futures contract. So we're going to get
+deep into futures contracts and how they
+work. Um let's first clarify what are
+derivative contracts in financial
+markets.
+You have a distinction that you need to
+make because a lot of people say I trade
+forex. Yes, but that's an asset class.
+Okay. I trade futures. Well, that's a
+contract. Do you trade futures or forex?
+Well, I could trade forex futures. So,
+we need to properly differentiate what
+is forex, what is futures, what's a
+contract compared to an asset class, a
+market, an underlying asset. So
+underlying assets or markets, you know,
+uh asset classes and market types are
+for example, you know, currencies, the
+forex market or commodities
+or bonds, the bond market, stock market,
+the cryptocurrency market. These are
+underlying assets, assets that lie
+under.
+So they are the base.
+derivative contracts instead is what we
+actually trade. We don't trade by buying
+and selling physical gold
+or physical oil or by actually going to
+a foreign exchange desk and changing our
+money literally, right?
+We normally trade contracts. Of course,
+if you're speculators, you also can buy
+underlying asset like stocks and bonds
+and cryptos, but likely if you're a
+shortterm speculator, not an investor
+necessarily,
+you're going to use derivative contracts
+and you have many of them. You have
+CFDs, options, futures, swaps, and
+others. And let's make an example just
+to make you understand. For example, if
+the underlying asset is the exchange
+rate between euro and dollar, which is
+eurousd,
+a CFD, a contract for difference might
+be eurousd.
+A futures contract might be 6E.
+If it's gold, you're going to have the
+CFD, which is typically X AUSD,
+and the futures, which is GC. It's a
+different type of contract.
+So, for example, here, yes, it's forex,
+but it's forex CFD and forex futures.
+This is gold, gold CFD, and gold
+futures.
+The S&P 500, for example, the US 500 for
+CFDs, and the ES for the E- Mini future
+contract.
+Some facts about future contracts that
+you need to know is a future contract
+technically gives the right to the buyer
+to buy the underlying asset as at a
+future date or expiration.
+So yes, they expire. Some expire every
+month, every three months, every six
+months depending on the contract. But
+they have an expiration
+where you either buy the the underlying
+asset or sell for example
+or you roll over the contract. You roll
+the contract over. So you basically
+roll it to the next expiration.
+and they were born for hedging purposes
+in commodities. Uh that's why we have
+the commodities future trading
+commission which is the CFTC which also
+releases the coot report the very famous
+coot report which by the way is based
+off trading activity of futures
+contracts. Okay.
+And as I said futures contracts were
+born for hedging purposes in commodities
+a long time ago. Okay. Like imagine IKEA
+right? Imagine you're IKEA and you build
+furniture. Well, you're going to need a
+lot of wood, right? So, if you expect
+the prices of wood to rise in the
+future, instead of waiting until the
+price rises, you can buy a future now, a
+wood futures that gives you the right to
+buy the underlying asset at a future
+date. So, you buy it now, maybe at 100,
+in the next few months.
+The wood may rise in price, but you
+still buy it at 100. Similarly to what
+happens to an option in some way, even
+though it's completely different, but
+this is the idea, right? You hedge the
+risk of commodity price rising by buying
+a future. That's what the
+original and most vast use of futures
+contracts was. And then with the you
+know
+the upcoming financial futures market
+they became also a speculative asset
+class a speculative type of contract not
+just for hedging purposes.
+Now some features of futures or futures
+features sorry for the the the
+word play they are centralized and
+regulated. So unlike CFDs that are
+traded OTC are a very untransparent
+lowgrade lowquality low transparency
+type of asset class and type of
+derivative contract that are not traded
+all at the same place all in one
+exchange but are traded in a variety of
+different brokers and banks and
+liquidity providers that are very very
+difficult to put all together to kind of
+come up with some trading activity and
+reliable volume data.
+Futures are centralized and they are
+regulated in the way they transact.
+Unlike CFDs,
+they may require higher margins that
+CFDs depending on the brokers. Some
+brokers are like really really good with
+margins. You don't need a lot of money
+to trade futures. You can open an
+account with I think as low as a hundred
+or $500 maybe to trade micro contracts.
+So, it's completely doable for, you
+know, people who cannot afford, you
+know,
+to have $50,000 of their account.
+It depends on the broker, but margins
+are doable, let's say. And to trade
+them, you only need to pay commissions,
+though. There's zero spread markup from
+brokers. A lot of you people coming from
+the Forex space might know that CFD
+brokers apply a extra spread on top of
+the market spread because they want to
+earn more money from your trading
+activity. Maybe you've been through a
+signal room uh and you didn't realize
+that your guru, your favorite guru with
+an offshore broker put a three pips
+spread on Euro dollar that normally
+should be zero, right?
+That does not happen in futures
+market because they're regulated,
+because they're centralized, because
+they're professional contracts. They're
+professional trading tools.
+The biggest futures exchanges include
+the CME, the Chicago mercantile
+exchange,
+the COMX,
+the URX, the NYX, the IC,
+and a lot of other exchanges around the
+world. And since they are traded in a
+single exchange, we can pay the exchange
+a monthly fee to access all of the
+exchange
+order flow and trading activity through
+a so-called data feed.
+So basically
+we can download the trading data the
+trading activity data from
+the exchange itself through something
+called a real time data feed
+which is orderflow
+and another features of futures is that
+there's no fractional lots okay so
+there's no contracts like CFDs
+mini lots and microl lots 0.01 01 0.10.
+So you cannot fraction
+a contract but you have micro contracts.
+So you have mini contracts which is
+basically your one lot and micro
+contracts which are basically your 0.10
+but they still count as one. So you
+cannot fraction contracts.
+
+4
+Welcome back to the futures introduction
+course. This is future 102 ticker
+symbols.
+Um futures contracts has
+have names also known as tickers or
+symbols that are structured in a way
+like this. This is the ESM26. Let's
+understand what that means exactly. So
+the ES is typically the first two
+letters are or maybe three letters are
+the contract name. So it's the E- mini
+S&P 500 which stay and stands for the
+underlying asset S&P 500 E- mini
+contract.
+This is the table that you can
+screenshot if you want of the most
+popular uh contracts. You can find it
+anyways inside of the deep charts
+platform. As soon as you select an
+instrument, they're all divided by, you
+know, exchange and the symbol and the
+description. So, typically you're going
+to find the ES, the NASDAQ, and the
+micro version in the CME together with
+all of the forex. And on the Seabbot,
+you're going to find bonds, commodities,
+um the Dow Jones, for example. And in
+the ComX, you find a lot of commodities,
+uh, and especially actually, uh, metals.
+So you're going to find gold, micro
+gold, copper, silver futures, and in the
+URX, you're going to find Euro stocks,
+FDAX, and in the NSAX, you're going to
+find crude oil, natural gas, and a bunch
+of other ones that you can find here all
+the time. You can just simply type to
+filter, and you're going to find them.
+Now, the middle letter, it's a symbol
+that normally stands for, it's normally
+a letter, sometimes it's just directly
+the number, but just for your
+information, it's the expiration month
+symbol. So the ESM26 is the ES contract
+expiring on the month of June 2026. This
+is the table of the month symbols if you
+want to screenshot it. So we have F
+January, G February, H March, J April, K
+May, N M June and so on and so forth.
+And in our platform though, you you just
+have it like this. So ES 2025 12. So you
+know it's December already. So you don't
+need to to come up with a bunch of
+letters and you don't need to memorize
+them. So, of course, try and make it
+easy as possible for you.
+
+5
+Hi and welcome back to the futures
+trading course uh futures 103. We're
+going to talk about tick size and tick
+volume tick value. So the tick size is
+basically how big is a tick number-wise.
+So if if we look at at at a price ladder
+right at price you got lower prices and
+higher prices right a tick is the
+smallest step possible in the price
+ladder.
+So the minimum
+variation of price
+of the futures ES contract
+is in this case 0.25 points. So you can
+see 25 50 25 sorry 75 0 0 then again 25
+50 75 and so on and so forth both up and
+down and one point is four ticks. So if
+you go from 95 to 96
+0, you're going to go up one, two,
+three, four ticks. Okay?
+And tick value instead is if I for
+example buy or sell one ES contract, how
+much money
+will I see floating up and down in my
+P&L?
+So, for example, if I buy one ES
+contract, that will create a change up
+or down of $12.5 per tick or $50 a
+point. So, for example, I bought here
+at 68.9550,
+my P&L is zero. As soon as I go up one
+tick is 1250, up one tick 25, up one
+tick 7 uh 3750 62 and so on and so
+forth. And if of course price goes down
+because I bought I'm going to lose 12.5
+25 3750 and so on and so forth.
+For micro contracts instead
+a micro contract like the mees will
+typically be onetenth or 15th of the
+tick value of the let's say mini
+contract. So the micro contract will be
+1.25 point uh dollars per tick or $5 per
+point, right? $50 a point, $5 a point,
+one10enth because you see from 9550 to
+9650 that's $50
+and that is tick value.
+
+6
+Hi and welcome back to deep charts. In
+this futures trading course and this is
+futures 104. You're going to learn the
+types of trading orders and OCOs and
+hedging inside of futures. This is very
+important lesson, crucial lesson if
+you've just traded CFDs before because
+it's going to teach you how trading with
+futures actually works and how it is
+different with all of the market orders,
+stops, orders, blah blah blah blah blah.
+So,
+uh, please be really mindful about this
+lesson, especially if you have never
+traded futures before. So, let's bring
+onto our screen our
+deep charts. And we're going to have a
+normal chart here. And on this other
+side of the screen, we're going to get
+the order book. I'm going to maybe put
+them like this a little bit. Yeah.
+Awesome. So, how does
+the trading actually works? Right.
+So basically I have this trading
+terminal over here that has five type of
+orders. Okay. Uh the buy limit is very
+easy. I'm going to place a buy limit for
+example below the current level of price
+and wait for that order to get filled.
+And as you can see I have it here. I can
+see it here. Right? I cannot put the
+limit order up. Right? Because if I put
+it it's going to open it market. Look at
+this. If I'm going to release it now. 3
+2 1. There you go. It's opened market.
+So, you might really want to be careful
+about this, right? If you place a limit,
+it has to be below price. And we're
+going to be exactly like any buy limit.
+We're going to wait for price to reach a
+little bit down and then fill the order.
+Nope, it's not filling it. Okay, we can
+do the same with the by placing it here.
+So, we're going to just wait and boom,
+we're filled. So, you put it below price
+and then you can simply know drag the
+stop loss and the takerit
+like you would do normally. But as you
+can see,
+this is a minus one limit. This is a
+minus one stop. So, take profits for buy
+um positions are limit orders are sell
+limit orders. And if you go inside here,
+you will see you have a sell limit right
+over here and a sell stop right over
+here because limits are typically for
+sells above price and sell stops are
+below price. Right? So as soon as this
+is closed,
+there you go. My position is zero. So I
+basically bought here, sold here. But as
+you can see, there's still my stop loss
+over there that I have to manually get
+rid of. And that can be kind of annoying
+sometimes. And that's why OCO strategies
+come into place. So, for example, if I
+place an OCO strategy with a stop-loss,
+let's say, of
+50 ticks
+and I buy market, it's going to
+automatically, do you see this little
+symbol here?
+So if I for example place a takeprofit
+here or I close my trade the stop loss
+will be automatically cancelled.
+OCO stands for one cancels other.
+So instead of going and for example
+buying market
+without an OCO strategy. So, I'm going
+to just
+buy
+and then put a sell stop here to close
+and put a sell limit here to close. And
+as soon as it's closed, this one is
+going to be stay on the chart. With an
+OCO strategy, I can make sure that that
+doesn't happen. Okay?
+And this is even easier on deep charts
+because you can simply you know place
+your
+projection and then simply enter order
+and it will automatically create a OCO
+strategy for you. This is something
+really normal for futures contracts but
+we try to make it simple like this also
+for you know former CFDs or forex
+traders.
+And by click clicking cancel you can
+simply you know cancel every order that
+you put in the book. And
+again that's buying market. Buying limit
+would be placing a buy limit here or
+selling limit will be placing a sell
+limit above current price.
+But let's say for example I want to
+trade only when this wick was broken.
+What I can do is place a sell stop
+slightly below that and this cell will
+be activated if and only if price
+reaches below that. Okay. And it
+doesn't. So awesome.
+Same thing if for example let's say I
+want to buy I can buy stop only if I see
+this candle broken up.
+And there you go. I got filled
+and price broke out and we're profiting.
+So that's awesome, right? Okay. And
+that's how buy stops and sell stops
+work.
+So as you can also see if I for example
+buy again now and then let's say price
+goes up from here.
+Hopefully it goes. Yep. Let's say now I
+want to sell because I think price is
+going to go down. Well, I cannot simply
+sell just like I would do on CFDs and
+hedge my my buy position with a sell
+position. I cannot do that. I have to
+because if I click sell and now my net
+position is plus one that simply means
+I'm long one contract. If I'm going to
+sell, I'm not going to open an extra
+sell position here. I'm just going to
+close this one, right? Let me sell
+market, for example. There you go. My
+position is closed. My position is flat.
+So if I wanted to for example buy first
+and then maybe sell to hedge my
+position, I have to go for example on
+the MES
+on the micro and open 10 contracts of
+these
+so that I can buy one contract on the ES
+and hedge myself with the MEES.
+So that's how you hedge in case you ever
+need it, which I highly doubt that will
+be a frequent case scenario.
+But you know, for everything that
+relates trading and orders and how to
+place them, stop-loss, take profit,
+OCOs, and hedging, that's all you need
+to know. Now, I would strongly advise
+you to open your Deep Charts platform
+and testing placing orders in a demo
+account with a 15-minute delay data feed
+just to test because we're going to
+provide you a SIM account anyways. Test
+how to place orders if you haven't yet
+and really get to understand how they
+work, how they're canled, what happens,
+you know, if you don't connect them, uh
+try to to, you know, just cancel or just
+to flat the entire position, blah blah
+blah blah blah. So give it a quick test
+and I will see you in the next video.

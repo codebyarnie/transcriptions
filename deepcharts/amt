@@ -1,0 +1,1316 @@
+19
+Hi and welcome back to auction market
+theory 101
+in this orderflow mastery course
+and we will lay down
+in this video and the next few ones the
+basics of understanding of the liquidity
+auction theory model which is the
+ultimately realistic
+model to analyze market structure based
+on facts, based on data, based on
+reality that deletes all the fluff,
+all the I think all the my opinion is
+and most of the stuff that you normally
+are fed in social medias.
+And we start from this model. Okay.
+It's very simple model.
+Consolidation,
+balance,
+fair value,
+imbalance,
+no fair value.
+search for liquidity price discovery
+and then again
+balance.
+Okay,
+these are the main phases of the auction
+market theory model.
+Why does this happen?
+Well,
+let's imagine that as we know, let's say
+we start from here, we have
+all of these passive sellers, all of
+these passive buyers,
+and there's
+sellers aggressing
+the bid, buyers accepting and lifting
+the ask.
+And the double auction keeps moving
+price up and down, up and down.
+And throughout all of this phase of the
+market,
+all four of our forces,
+passive buyers, passive sellers,
+aggressive buyers, aggressive sellers,
+are in a situation of balance where
+you'll typically see from the volume
+profile a situation of fair value and a
+lot of money being traded
+throughout all the range.
+And this is a situation where both
+forces are agreeing that this is a fair
+price to trade. That's what we have to
+understand from this because as we know
+markets move because
+of the variation in the perceived value
+of the underlying asset.
+So whenever we think that you know both
+sellers and buyers aggressive and
+passive think
+that this range of price is fair. It's a
+fair valuation
+where it's fair to trade
+where it's fair to sell and to buy
+both aggressively and passively in a way
+that makes price action balanced.
+that will keep the price around the same
+range because of the trading activity
+that happens behind makes us understand
+that that's a fair price for the market.
+that whenever we
+try to
+auction in the higher prices,
+there's more of a bias to sell.
+And whenever we move to the lower ranges
+of the range,
+there's more of a bias to buy. So a
+situation of balance is the ultimate
+description
+of a fair valuation. That's why we call
+this the fair value area.
+But something happens. Something might
+happen. A news might come out as we
+remember the example with Apple.
+Well, when Apple releases its earnings
+and it's way higher than expected and
+they're making a lot of money, well, the
+perceived valuation of the Apple stock
+will rise. So, if before buyers and
+sellers were agreeing that this was a
+fair price to trade,
+well, sellers might not agree anymore
+that this is a fair price to trade.
+aggressive buyers instead and you know
+all all sorts of buyers will agree that
+this is a fair price to buy. This is a
+fair price to buy. This one is as well.
+This one is as well. And all of these
+ones are fair prices to buy
+and to aggressively accept paying
+slightly higher prices as long as they
+can get their hands on the underlying
+asset.
+And this shift in the auction typically
+happens either because you know in the
+most stupid example something happened a
+news came out
+or because the net pressure of long-term
+market participants
+taking into consideration the
+fundamental value.
+So this fundamental bias is long
+and you know most institutional traders
+will typically split their orders right
+they will not put their order in the
+market all at once but they will
+fraction it okay and they will fraction
+it in order to not have this impact on
+price so that they can get a better fill
+right because if they were to buy all of
+these orders all at once what will
+They will buy some here, buy some here,
+buy some here, buy some here, buy some
+here, and their average price would be
+here for example.
+But if they buy just a little bit, wait
+till more aggressive sellers come and
+then buy a little bit more and then buy
+a little bit more where now their fill
+is here instead of being up here. So for
+an optimal execution of these huge
+orders that big banks, hedge funds, and
+all of these smart money market
+participants
+have to go through in order to get a
+better feel of these order,
+this mass of orders, they will typically
+fraction their orders, right? And a lot
+of the order flow you're going to see
+comes from
+this
+perfectly cadenced rhythm of fractional
+institutional orders, right?
+And at some point one of the two flows
+might outflow
+the opposition. Okay?
+So in the you know most stupid example
+this happens because of a change in the
+fundamental perception
+but it also could be a continuation of
+the current perception
+because maybe they just need to pour
+more money in the market to fill all of
+their position so the auction just goes
+higher. Right? And
+if I had to ask you a question, right,
+these buyers that are
+buying and paying a spread, do they like
+paying a spread and constantly get
+filled at worse and worse prices, do
+they like it? Not really. What would be
+the ideal scenario for them? That a huge
+seller in the book was here. They would
+buy into it. He would absorb all of them
+so they can get a good fill because they
+think price will go up anyways. So they
+get a better fill.
+But sellers are not present, not as
+much. The book is thinner on the sell
+side.
+So what they're actually doing when
+they're pushing price up because of this
+aggression is intrinsically looking for
+liquidity,
+looking for counterpart,
+looking for an easier way to trade that,
+you know, they don't get filled at worse
+and worse prices.
+They're looking for sellers
+that consider these prices fair. And
+they might not find it for a long time
+but at some point they will because
+prices will rise. And now also the
+sellers
+will start seeing this this level of
+price as a fair price to trade as a fair
+price to sell.
+So we will find ourselves again in a
+situation of balance where both forces
+aggressive buyers aggressive sellers
+passive buyers passive sellers agree
+that
+this is a decent price to trade
+and that's why you see a lot of volume
+going on. Again a lot of trading
+activity. This is where where smart
+money prefer to trade because there's a
+lot of liquidity. there's not a lot of
+price movement. They can get their fill
+very optimally.
+And that's where the auction clearly
+tells us something.
+The price action
+is explaining as a consequence of volume
+that the market from both sides is
+accepting that this is the new fair
+valuation, that this is the new fair
+price. Before this was a fair the the
+fair price. Now this is the fair price.
+So the auction
+is likely to keep bringing price up.
+Okay. This is when a trend is qualified.
+So not just this
+with highs and lows and highs and lows.
+We want to see this
+market agreeing that that's a fair price
+on both sides.
+Not for a small price swing for a long
+time.
+We need proof that all the institutional
+order flow is on our side.
+And this is the basics of the auction
+market theory model. So, you got a
+balanced market, a fair value area, an
+imbalanced market, and then again a
+balanced market.
+Let's get deeper.
+It's not just going to go like this,
+okay? It's likely going to go
+like this, right?
+And the next level into framing this in
+a way that is more realistic is
+introducing failed auctions. Okay.
+And by failed auction we mean one of the
+two parties of the auction
+auctioning higher for example.
+So an attempt to break
+that does not happen
+because either
+aggressive sellers
+take control of the market
+or because this phase of aggressive
+buying exhausts
+and aggressive selling
+starts to take control again and bring
+brings price back in a situation of fair
+value and the auction in a situation of
+balance. This is what we call a failed
+auction. Could happen on the other side,
+right?
+All of these buyers are considering
+these prices to be fair enough to push
+price higher. And if sellers do the same
+thing and they try and auction lower,
+well, you could expect the same buyers
+that bought here, well, now they're
+going to consider these prices even
+cheaper. So you're going to have some
+form of pressure
+that will lead prices back up in a
+situation of balance.
+So this attempt of one party
+to search for lower liquidity
+that fails
+to try a new price discovery phase that
+fails, we call failed auction.
+And it can come in a bunch of different
+fashions. It could either be an
+exhaustion from sellers
+and buyers taking the upper hand again
+or it could be
+sellers being absorbed. They try to
+actually push but they find a wall of
+passive buyers
+and then they simply give up and buyers
+take the upper hand. So it can either be
+a dry up
+in sell volume while going down or an
+absorption from buyers. Same thing over
+here. Either a dry up in buy volume
+or buy volume increasing but finding a
+wall
+that like Gandalf, right? You shall not
+pass. And then sellers taking the upper
+hand.
+Same thing over here, right? We have two
+times a failed auction. The sellers try
+to auction lower and accept paying lower
+lower and lower prices. But the same
+buyers that consider this and this is
+even more powerful. The same buyers that
+consider these prices to be completely
+fair actually super cheap
+driving the auction higher
+causing a situation of imbalance.
+Well, those ones now are going to be
+very hungry to buy more.
+And any attempt to exit the fair value
+is
+has a higher likelihood of failing than
+creating a new auction because you have
+this to deal with first.
+You have these prices to deal with first
+and buyers were considering these super
+cheap
+in a very recent time.
+But at the same time,
+sellers might be ready to
+keep the buyers in check above here.
+Every time buyers try to attempt
+auctioning higher, these are prices that
+for sellers are considerably cheap or in
+this case a really good premium to sell
+and they will push price back into
+balance. This is what will happen most
+of the time. price will attempt a
+breakout. There's only one breakout that
+works. Only one actually breaks out
+because it breaks out.
+These ones are attempt to break out that
+that simply breaks back in.
+And we call these failed auctions.
+So you will tend to see
+areas of balance, areas of imbalance
+that will coincide with areas of fair
+valuation from the perspective of
+volume. Low volume areas and then high
+volume areas again.
+Just like this
+areas where market agreed on a price,
+stay there a bunch of time and traded a
+lot of money. areas where not a lot of
+volume was traded, not a lot of money
+was traded, not a lot of time was spent
+there, but the auction was way more
+aggressive.
+So, still very significant.
+These, by the way, are the best, the
+absolute best trading setups
+because you both get the strength of the
+imbalance,
+the exit from fair value,
+and a situation
+where buyers are also
+keeping the sellers in check in a
+situation of fair value.
+and sellers likely considering these
+prices a little more fair than these
+ones.
+So in a situation like this where we'd
+like to take a look at price action,
+we'll not just draw highs and lows
+as a visual reference points because you
+know this is Dow theory, right? Market
+is high, market is low, market's going
+high, market's going low. So higher
+higher, higher low, we're in an uptrend.
+Good boy. Yeah. Um,
+we'll take a look at the market in this
+way. Where is the most volume traded?
+Where did the price try to auction? And
+what happened after?
+What was the effort? What was the
+result?
+This is a much more rational way of
+looking at markets because it's based on
+facts. It's based on data. It's based on
+volume.
+
+20
+Hi and welcome back to the auction
+market theory 102.
+We're going to discuss now trading
+ranges in failed auctions.
+So whenever price
+approaches
+the extremes of our
+fair valuation area where statistically
+70%
+which is a standard deviation
+of volume is traded of money is exchange
+of trading activity is happening
+we get into the anomalies.
+Okay, with the same principle we've
+decided and decoded before, these are
+the areas where we either want to sell
+at
+as soon as price approaches them when we
+see confirmation from order flow
+or wait to be
+broken and
+see an attempt
+of an upside auction
+failing, which is even better. Okay,
+same thing over here.
+When this happens
+or when this happens,
+those are potential high probability
+buying opportunities.
+So, we want to then take a look at
+what happens with orderflow inside of
+these areas
+to find a confirmation
+that passive and aggressive forces are
+giving us a asymmetric
+opportunity
+from a risk-to-reward and win rate
+standpoint. So we want a high
+probability of going up
+and a high risk-to-reward for taking
+that trade.
+So these are very simple models, very
+simple models. We take a daily volume
+profile and we look at what happens
+here, what happens here.
+We wait for a confirmation that price
+will drop back inside and we take that
+trade to the other side
+and vice versa. Now let's make an
+example a practical example
+by
+looking at a situation of
+clear fair value
+and looking at what happens in the
+following session.
+Well, we know these are the errors. So
+let's remove
+the volume profile so we can just see
+the price action and the order flow.
+The next session starts here. So we
+already have a good indication. We
+started our session inside of the
+previous value area.
+Then what happens?
+Take a look at orderflow and we read
+what might have happened.
+Well, the first idea as we said is we're
+going to try and see if there's any buy
+opportunity here. Right? So we see price
+dropping dropping
+dropping
+and at some point here we see a lot of
+volume traded from both sides.
+So we have a war here between buyers and
+sellers which we consider could consider
+some form of absorption and when we try
+to auction lower what happens there's a
+dry up in volume.
+There's some selling but buyers are way
+more aggressive.
+Well that's a failed auction right here.
+We have a big phase of absorption. So we
+probably price did something like this.
+Tried to push out and was dropped back
+inside by aggressive buyers.
+So we have a failed auction
+and then price pushing high really
+aggressively.
+A lot of imbalances on the side.
+That's when we know
+where we have let's say the first
+indication
+that price is likely to bounce back off
+can take volume itself.
+So there was a lot of volume in this
+candle but no follow through and the
+following candle
+dropped back inside.
+And from here, this is our buy idea
+to the other side of the range.
+You could either wait for a test
+or wait for the following candle
+to close
+and even maybe take a slightly lower
+risk-to-reward.
+one to two
+and that's a high probability trade. Now
+let's go to the other side and see what
+happens.
+Well,
+we have buyers really aggressive on the
+upside.
+As soon as we're outside, big volume
+dropping back inside,
+but the candle still does not close back
+inside.
+more aggressive buying is being absorbed
+here.
+And as we stay outside of here, volume
+dries up. So there's a phase of
+exhaustion. There's not a lot of trading
+activity here.
+And then what happens? Well, we drop
+aggressively back inside with even more
+volume and a lot of aggression, a lot of
+imbalances.
+Well, that's the first
+indication
+that we might continue lower.
+So we either wait for a test here
+or for example do this and sell in this
+one. We likely get stopped out. But we
+took a good decision. We took a smart
+decision.
+The point here is not, you know, making
+money all the time. The point here is
+looking at what's happening in the
+auction and acting accordingly.
+And then once again, what happens?
+We tried to drop back inside. We saw
+there was a lot of aggressive selling
+going on, but maybe they were not ready
+yet.
+So buyers take the upper hand again
+while being inside of the range.
+They push price outside and as they do,
+volume again dries up.
+aggressive selling,
+pump in volume.
+And the last candle
+that tells us buyers are not ready
+is here
+where we see again an exhaustion in
+buyers
+that tries to push up very quickly. they
+go down
+and the following candle is just
+unrefutable proof
+that we're ready to drop back inside.
+Look at this.
+Super high delta imbalances, super high
+volume, drops back inside, tests, and
+that's our entry.
+And slowly but surely that's what
+happens.
+So with this very simple framework
+we took one trade take profit. We took
+another trade stop-loss and took the
+last trade take profit
+with a very easy framework. Looking at
+what buyers are doing, look at what
+sellers are doing. Framing the auction
+correctly so we have a context of what
+we want to do.
+And we take the decision based on data.
+We take the decision based on what the
+money is telling us.
+
+21
+Hi and welcome to auction market theory
+103 trading breakouts. So, we talked
+about
+how to behave in a ranging type of
+situation,
+but let's also identify what happens
+when we break out of certain volume
+areas. So, we might be in an uptrend
+already, and we might want to join the
+trend instead of opting for a pingpong
+reversal.
+So we want to take a look at what
+happens here. For example, we want to
+take a look at what happens during the
+test with orderflow
+and framing our entry for a breakout in
+a directional session
+while at the same time seeing what
+happens during the breakout through
+orderflow and see if there's a high
+chance a high likelihood of a
+follow-through in price.
+So what we would like to see in a
+situation like this
+is high volume,
+high delta,
+and not something that simply dries up,
+something that continues to have a high
+volume.
+And if and when there is an attempt for
+sellers to drop back inside of a
+comfortable area,
+we want to see a dry up in sell volume
+and buyers taking the upper hand on the
+test as well.
+Then we know it's a valid breakout. And
+we can take the same example we've had
+here.
+We have a situation where
+price tried to auction higher but
+couldn't.
+So we finally have a break below with a
+lot of candles closing below.
+And what can we see if we look at
+orderflow?
+Can we see during the breakout an
+increase in volume that does not stop?
+Well, this is the candle that broke out.
+Let's look at volume.
+Oh, look at that.
+Increasingly, increasingly high and then
+increasingly high again.
+Well, how about on the buy side? Is
+there increasing volume? Not so much.
+Oh,
+that's a very interesting thing. That's
+exactly the polar opposite of what
+happened here
+where we had
+at the breakout
+by volume drying up and then when we
+dropped back inside then volume rising
+up again.
+This is exactly the opposite.
+And it's data. It's undisputable
+proof.
+It's data based on money.
+Well, this candle is not just a fat ass
+candle, but a lot of imbalances. Okay,
+interesting.
+Sellers being absorbed slightly at the
+bottom, but then poked through.
+Okay, we have all the confirmations that
+this is a qualified breakout.
+Again,
+little fair valuation. again fair
+valuation and then auctioning lower and
+lower. Also the small time fractal
+volume profiles tells us that value is
+going lower.
+Then we have a retracement. We have an
+auction higher.
+Okay. Well,
+our bias is sell, right?
+It's pretty clear. This is the area
+we've been following through the whole
+time.
+Well, what happens here? What happens to
+all of these aggressive buyers? Oh,
+would you look at that?
+Absorbed.
+Absorbed. Absorbed. Absorbed. They try
+to push up. They can't. And if they try
+harder, look at this. Imbalances on the
+top.
+Aggressive sellers take the upper hand
+again.
+And boom.
+sellers take the upper hand
+and what happens during the breakout?
+Volume increases again.
+One more test and we melt for the entire
+session. Okay, here's there's probably a
+bug in the in the
+data feed,
+but all of that session
+with a qualified breakout where the
+money was telling us, not just a candle,
+just looking at this, you're blind.
+You're just blind
+to what the market is actually able to
+tell you. And that's a breakout we that
+we can trade very successfully.
+either directly on the test because we
+saw the volume here. We saw the volume
+going up. We saw the aggressions and ab
+buyers trying to absorb but failing. So
+we know who's in control in the auction.
+There's a lot of money in control of the
+auction and it's going down.
+So whenever there's a pullback that's an
+opportunity.
+So you either place yourself
+in the imbalance itself,
+which is a really good trick.
+So you basically look at the candle,
+take the cluster of imbalances,
+and that's your
+sell entry zone with a stop above the
+candle.
+Or if you want to be more conservative,
+you wait for a second confirmation
+because, you know, you might be scared
+of this candle. You might say, "Hey,
+there's a lot of aggressive here. Um,
+let me see first." Well, totally fine.
+So, you wait for a phase of absorption.
+Sellers taking the upper hand again.
+Buyers trying to stop them failing.
+Okay, now it's the time. Stop above
+here. Let's [ __ ] roll.
+And that's
+how you manage a breakout.
+
+22
+
+Hi and welcome to orderflow dynamics
+101. We're going to take a look at how
+we can identify the auctions fractally
+inside of the footprints. So auction
+footprints
+we mainly divide the auctions in the
+footprint in initiative and responsive.
+Initiative being the same as a situation
+of imbalance.
+Responsive similarly to what happens in
+a situation of balance.
+So what you would typically see during
+an initiative candle. So this is an
+initiative candle. These are both
+initiative candles. a sell initiative
+candle and a buy initiative candle is
+you will see high volume
+high delta percentage because you want
+to see mostly aggressive buying or
+mostly aggressive selling going on
+inside of the candle and leading the
+auction higher or lower.
+You'll tend to want to see many
+imbalances
+widespread volume distribution. So, not
+just one big
+uh volume distribution, but you want to
+see it's widespread throughout the whole
+candle just like this.
+And you want, of course, a full candle.
+So, by high volume, you want to compare
+it, of course, to the previous candles.
+So, you look at the previous candles,
+see if this one has more volume. with
+high delta percentage. You want to at
+least have more than 10% delta. There
+was a mistake here. Probably this was
+not percentage. Uh but probably this
+would have been
+2.2
+divided by five.
+That's around a quarter. So 25%
+deltaish,
+something less, maybe 20%. Well, that's
+a big delta. Whatever is above 10%
+is a decently good delta. So that's how
+we want to spot even in the lower time
+frame
+an initiative auction.
+So let's take here for example. Let's uh
+take a situation where we have a
+situation of ranging and then a
+breakout. Well, this one is clearly one.
+We have a situation of balance, right?
+And when we break out, what happens?
+Let's look at the candles
+and the order flow. Well, we see a lot
+of imbalance here, but we're still in
+the range, right? Let's first take a
+look at what's the actual range.
+This is more or less the big range,
+right?
+And then we break out around here. So,
+let's take a look at what happens during
+the actual breakout.
+Oh, there you go.
+Look at this. So, we have first, of
+course, a buyer trying to absorb that
+gets completely
+ran through.
+And this candle tells us everything we
+need. We have a lot of imbalances. One,
+two, three, four, five, six imbalances.
+We have an increase in volume activity.
+We have a really high delta, 37%.
+That's an initiative auction. The
+following great sell candle, what does
+it have?
+Lot of contracts, a lot of delta, maybe
+7%, but still a lot of imbalances in the
+candles.
+That's what we want to see and what we
+tend to see during breakouts.
+Even here below this low, we break down.
+What happens?
+Well, in the breakout, volume increases
+from 2.7 to 3.8 eight
+again prices break from a low volume
+increases
+and these are all initiative candles
+minus 11%
+delta
+and so on and so forth. So these are
+initiative auctions,
+high volume, high delta, many
+imbalances, big candles.
+A responsive auction, which is kind of
+the opposite, will tend to look
+something like this. You will tend to
+see during the ranging phase in the
+upper ends
+buyers being absorbed. So you'll see a
+lot of greens at the tops. Greens at the
+top, green at the top, greens at the
+top.
+Especially if you're in this situation
+and you expect this and right after big
+imbalances and initiation coming as soon
+as we break through.
+So you want to see typically some phases
+of absorption at the top and typically
+if for example you're expecting an
+uptrend you want to see also some at the
+bottoms.
+Okay you want to see sellers being
+absorbed at the bottom which didn't
+happen in this specific example.
+In this one though yes
+we had aggression here. We had these
+imbalances and as soon as we get too low
+we start absorbing them. Purple on the
+bottom. purple on the bottom and then
+aggressive buyers taking the upper hand
+responsiveness. So we have a response
+from passive buyers.
+Okay.
+So let's zoom in. Let's see what
+happened here. And you can clearly see
+after a big directional phase,
+we have a situation of responsiveness.
+We have buyers absorbing all throughout
+the lows of the candles. You see the
+dark areas at the bottoms of the
+candles, right? This is clear
+responsiveness.
+This means that all of the passive
+buyers in these
+flashes of price are responding, are
+buying, are blocking the way. But then
+you look at the tops, you see a lot of
+green at the top, a lot of green at the
+top, a lot of green at the top. Well,
+also buyers are doing their thing. So
+this is our range.
+And as soon as we break out, we want to
+see some initiative. 23% 1.4K
+increase in volume.
+And what you would tend to see during
+these phases is
+delta tending to be flatter.
+Not a lot of high delta. You don't want
+to see a lot of high delta in these
+situations. It's likely less. Okay?
+Likely a little bit less.
+And this is what you'll typically see.
+in a situation of responsive auction.
+
+23
+Hi and welcome back to orderflow
+mastery. This is orderflow dynamics 102
+absor absorption versus exhaustion. And
+these are two let's say reversal type of
+patterns that are
+anticipating in a way the same thing
+which is a reversal in price but are
+fundamentally different
+and we're going to see some example now.
+So we define an absorption
+as a lot of activity in this case buying
+that does not have a clear result in
+price. So you see this big ass volume
+areas a lot of color a lot of imbalance
+that's called an absorption. a lot of
+money, a lot of volume clogged in a
+single tick or in maybe two or three
+ticks.
+Same thing happened over here to sellers
+by the way when they tried to push down.
+Sellers here were absorbed. A thousand
+of them was absorbed here, but then they
+had a follow-through, right?
+But these are called areas of
+absorption. An exhaustion phase instead
+is a phase where you'll typically see
+from a profile standpoint a dry up in
+volume. You see how there's less and
+less volume
+and especially in the last few steps
+there's less and less and less and less
+volume.
+So you don't have a clear phase of
+absorption here.
+You had an attempt,
+a dry up and sell volume and buyers
+taking the upper hand right away. Not by
+absorbing
+but with an exhaustion from sellers. So
+sellers stopped accepting lower prices
+at the same pace as buyers. Aggressive
+buyers.
+That's an exhaustion. That's the
+difference between a phase of absorption
+where you have
+the passive participants blocking price.
+Let's see if we can
+get back to this one. So here you have
+passive participants, passive sellers
+blocking price from going up and then
+taking the upper hand. That's
+absorption.
+When this happens
+in a way that
+it is aggressive selling that dries up
+without a clear wall from aggressive
+from passive buyers and then buyers
+taking the upper hand. That's what we
+define as an exhaustion.
+Slight difference but very important to
+understand the language of orderflow.
+
+24
+This is
+two at the same time. This is a very
+common rejection pattern where
+you will see a high ratio orderflow
+exhaustion. So the first thing you will
+see is on the sell side. So where we're
+coming from, what you want to see as a
+form of of exhaustion,
+you want to see this number and this
+number having a higher ratio than 10 to
+one.
+In this case, we have it.
+This is a high ratio orderful
+exhaustion. So there's an exhaustion in
+selling activity.
+And paired with this
+you want to see an imbalance reversal.
+So
+on the very last auction so with a zero
+here
+the first number here having an
+imbalance of at least 400%.
+Or 300%. You know that these are just
+numbers but you want to see a big
+imbalance.
+This is a clear sign of rejection
+of both dry up in sell activity
+and huge strength from buyers.
+So you have a high ratio orderful
+exhaustion and an imbalance reversals,
+an imbalance on bottom.
+Same thing, by the way, happens the
+other way around.
+So you want to have a high ratio
+orderful exhaustion on the upside. So
+all of these aggressive buyers from 200
+to 7. So it has at least a 10 to1 ratio.
+And you want to see an imbalance on top.
+Okay. I forgot to write this. This
+should be imbalance
+rejection.
+Okay. Same thing. So we have both buyers
+not willing to accept higher prices
+anymore. dry up in buying volume and
+aggressive sellers taking the upper
+hand. When you see this at the top of a
+candle, it's a very good sign. It's a
+really, really good sign that will
+reject
+
+25
+Now let's take an another look at
+another very important pattern. And just
+as much as the stomp run is an anomaly
+also big orders are typically an
+anomaly. We want to capitalize on
+orderflow anomalies that can reliably
+make us money. So big orders and iceberg
+iceberg walls are definitely one of
+them. Big orders are much more common
+than iceberg walks. Iceberg walls are
+way more rare. They used to be much more
+common in the markets,
+but they're worth mentioning because
+sometimes they'll happen in low
+liquidity environments and that's a
+feast.
+So, the first thing we want to see when
+we see absorptions in big orders is, for
+example, in a one minute candle in the
+ES, we want to see at least 1,000
+contracts. Okay, that's our minimum
+threshold.
+We want to see a lot of green
+or a lot of purple based on the delta.
+And
+in these situations, if there's a huge
+order in the wick of the candle and
+price rejects from it, we know that
+big market participant is dominating the
+market.
+If price were to do that and then break,
+we know there's something even bigger
+that's going to push price up. So
+whenever we have
+a huge trade above 1.2K contracts in an
+ES tick one minute candle and a
+rejection that's a good indication that
+we could continue to go lower. If we
+have a closure of the candle above this
+then we could keep going up.
+And here is a very clear example of the
+same thing.
+We closed the candle below and we
+started auctioning lower. And for that
+session, spoiler alert, we went down the
+whole freaking session.
+Same thing over here. So, we we want to
+see we want to take a look at the
+footprint. We see that there's an
+anomaly here, right? We have 1.2,000
+contracts in a single tick. That's a big
+order. That's either a big order in the
+book or an iceberg. You can you can
+discriminize if it's an iceberg or just
+a big trade by looking at the depth of
+market. And in the depth of market, what
+you will see here is a big order right
+in the in the dome in the aggressive the
+passive buyers. That's how you know it's
+just a big order. Otherwise,
+you will not see it at all. And then you
+know it's an iceberg, which means it's a
+small order that's simply reloaded a
+bunch of times.
+And as you can see here, we don't candle
+close below this. We don't manage to
+close. The following candle is an upward
+candle
+and we push up.
+Here we have another example shortly
+shortly after
+of a passive buyer trying to block
+the upward auction of sellers completely
+ran through. No candle close and we keep
+auctioning higher. So you take these
+reference points of big trades
+and you see what does price do after.
+Well, that's a good indication of where
+price will likely keep going.
+But sometimes you might see situations
+like this. You're not going to find a
+lot of them, guys. But if you find them,
+well, if I find them, I will I will take
+advantage of them. It's not financial
+advice.
+But you can clearly see here that
+sellers are trying to go down and
+there's a big buyer here. 260. And what
+happens? Bounce.
+We drop back down.
+Bounce. Drop back into it. Bounce. Drop
+back into it again. Bounce. This is an
+edge you can capitalize on.
+This is called an iceberg wall. Okay.
+They're literally punching to the wall.
+punching to the wall and nothing moves.
+So, this is a very big order, very big
+order
+that we can front and buy from.
+Earn a couple ticks, wait for it to come
+again. So take profit,
+buy again, take profit, buy again, take
+profit, buy again, take profit a couple
+times and then 90% of the time it will
+be ran through and we could opt for a
+breakout trade.
+They will do something called momentum
+ignition. Ignition. You will see a bunch
+of market order being shot into the
+market all at once. Sort of like a stop
+run. And that's potentially a good entry
+for a sell.
+And that's how we trade big orders and
+iceberg walls.
+Here you have another example where
+there was a big order here, caused a
+bounce, and then price just ran through
+it like it was nothing.
+Momentum ignition, a lot of imbalances,
+market orders. That's a good sell setup.
+This is all scalping dynamics, by the
+way.
+And we dropped down for the rest of the
+entire session. But we had a big fight.
+Who won the big fight? Aggressive
+sellers. Well, that's where I'm joining
+the party. I want to stay with the
+winners. And I can clearly see thanks to
+Orderflow, unlike with any other price
+action chart,
+what the big money, the smart money is
+doing.
+This is another example where we have a
+big trade over here. Candle closes
+below. We test it. We don't manage to
+have any auction above here and we keep
+dropping for the entire session.
+This is another example where we had
+a very aggressive auction, a lot of
+imbalance, a lot of green going on and
+then you had
+absorption here, absorption here,
+absorption here. These are all big
+orders
+and they form this sort of liquidity
+pocket. this area where there's a lot of
+trading going on. Absorption on both
+sides of the auction.
+And in this type of situation, you see
+it's the same exactly the same level.
+This is disturbingly accurate. But at
+the end of the day, what happens? We
+auction higher. Well, now we know where
+to go. Now we have a clear direction. We
+have a clear understanding of which one
+of these big fishes have won because
+it's not retails. It's not phytolantons.
+These are whales putting billions in the
+market every single minute of every
+single day. And we have undisputable
+proof of who has won that battle and we
+want to be on the right side of that
+battle.
+Another
+example here.
+Big order, big absorption.
+Is there any candle at all that closes
+above here? No. What happens right after
+sell initiative imbalances? Okay. You
+know what? Guess what I'm going to do
+when price comes and test it?
+One way out.
+Pure objectivity. Pure raw data.
+
+25
+Hi and welcome to Orderflow Dynamics 104
+in this orderflow mastery course. In
+this video, we'll take a look at stop
+prints. And stop prints are a very
+interesting pattern in orderflow that
+does not happen very often as much as
+people think. Okay?
+And they are much more insignificant
+that a lot of people think because a lot
+of people think that there's this
+stop-loss hunting for retail traders,
+but you know, retail traders make up
+probably less than 5% of the volume.
+Depends on the market, but they're not
+hunting for your stupid stop-loss.
+Okay, that's that's just that's just a
+fact. Uh but sometimes stops might get
+triggered and they may cause some price
+movement. Okay, I'm just saying that
+they're not hunting for them. Okay, no
+one is hunting for you. No one's after
+you. Okay, market don't give a [ __ ]
+about you.
+But above high and below lows, of
+course, there's stop orders, right?
+Because people place their stops above
+there or their market orders for
+continuations, for example, sell stops
+below there. That's that's absolutely an
+observable phenomenon.
+So, you will see stopps, you will see
+moments where stop orders enter the
+market and move price. So let's say for
+example you have
+a high or multiple highs at the same
+time and you would expect here to have
+stop orders
+and stop orders
+as we've discussed
+are market orders. So they are
+aggressive buyers because if price is
+here, right? Let's say price is here.
+Okay, let's uh let's change the color.
+Let's say prices here. What will you
+have? You will have
+passive buyers
+and you will have passive sellers,
+right?
+So a buy stop
+that could be above there
+is placed above the current price.
+Right? This is the current price. So
+it's a pending order that does not stay
+in the book because in the book you have
+buy limits below the price and sell
+limits above the price. Above the price
+you have sellers in the book. So you
+will not see buy stops in the book.
+Buy stops will be placed there and
+executed market and take
+the best bid or the best ask.
+Okay.
+So let's say now price
+moves here and we approach this level
+and there's a lot of buy stops here,
+right? Let's say this is buy stop, buy,
+stop, buy, stop ready to enter the
+market. You have
+passive buyers here
+and then you have
+passive sellers here.
+Well, all of these market buy orders.
+They will enter market just like their
+market orders just by market. So, they
+go a little bit here, a little bit here,
+a little bit here, and they'll enter all
+at once in a very fast way, in a very
+fast-paced way because they happen all
+at the same time. They're all triggered
+at the same time. and they will eat all
+of the liquidity in the book.
+They will eat all of these sellers, all
+these passive sellers, causing a very
+fast price move up that likely will get
+reabsorbed because that's the path of
+this resistance because imagine
+all of these get bought. So these get
+bought, these get bought, these get
+bought, they're executed. So a lot of
+aggressive buying coming in.
+And let's say this is now price.
+It's going to take some time for buyers
+to repopulate these levels with new
+passive orders.
+You're going to still have a lot of
+aggressive sorry passive sellers above
+here.
+So now the path of least resistance
+is this one because in this situation
+you'll typically not have a lot of
+orders here because all of these
+aggressive buyers have swept the book.
+That's why we call it book sweeping. Not
+because the stops are being swept but
+because the limit sell orders have been
+swept by market aggressors in the form
+of stop orders.
+So, this will be an empty space in the
+book
+that will likely get filled right away.
+And then you see
+this happening. And a lot of traders
+will say, "Ha, they hunted for my stop
+loss because they actually wanted to go
+down." Yeah, that's not how it works,
+bro. That's not how it [ __ ] works.
+There's orders that have triggered a
+fast price movement. That's why we call
+it a run because it's fast. It's very
+fast and it will go down not because
+there was a secret plan from the banks
+to [ __ ] you up, but because there's way
+less liquidity here and the path of
+least resistance is that one. Okay,
+that's all there is. No conspiracy
+theory, pure order flow. So, what you
+would typically see in the first stages
+is all of these market orders entering
+the market, right? So this is an example
+of a stop run and you'll see a lot of
+green in the candle. A lot of green
+and 0 0 0.
+Why did that does that happen? Because
+all of these market order that maybe
+were above here are entering market all
+at once. So they're going to sweep all
+the book and sellers will not even have
+the time to auction.
+Market makers are losing money here.
+Okay, for a very short period of time.
+And so you will have a big ass
+pump up that
+70 if not 90% of the time will reverse
+will reverse at least back
+to the book void
+to the path of least resistance.
+That's a trade that I, you know, that's
+a type of of of trade of setup that I've
+shared also on my YouTube channel went
+very popular um one of the last videos
+where I basically sell above here and
+basically opt for a reabsorption of
+price.
+This is another example. We have a stop
+advanced indicator that basically you
+can set for the launder session. This is
+a low liquidity pattern by the way. This
+is very low liquidity pattern. It only
+works in low liquidity environments.
+So, for example, what you want to see is
+high volume, high delta. So, from
+278 contracts to 4,000,
+mostly delta. Typically, you want to see
+it above 20%.
+Because it's mostly buy orders, buy
+aggressors.
+Same thing over here. We have a very
+high delta. We get some stop,
+you know, resting above here that swept
+the book. A lot of green in the candle,
+high volume, high delta, imbalances,
+big volume, then the rest.
+We sell, we take the reabsorption,
+and that's it.

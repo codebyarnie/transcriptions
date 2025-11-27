@@ -1,0 +1,1770 @@
+13
+Hi and welcome back to this orderflow
+mastery course. In this new chapter,
+we're going to start talking about
+orderflow tools. And the first orderflow
+tools we're going to talk about today is
+times in sales. This was also commonly
+referred to as the tape.
+You hear people talk about tape reading
+while looking at price. That's [ __ ]
+hilarious. Let me tell you this.
+The tape
+was
+literally a piece of paper that was
+constantly being printed every time
+there was a transaction. Hey, one
+transaction, one transaction at this
+price at this time.
+Again, printed one transaction at this
+price at this time. One transaction at
+this time at this price. blah blah blah
+blah blah blah blah. A tape that was
+constantly being printed
+in literally a tape,
+a physical tape of paper
+that now exists under a digital form of
+course and that we can see through deep
+charts. So we're going to open new
+advanced time and sales.
+This is a normal time in sales.
+Let's make it slightly bigger for you
+guys.
+And let's make the not only this one
+bigger, but we can also make the numbers
+look slightly bigger if you're looking
+this from your phone because I know you
+guys are doing stuff from their phone
+and are not professional traders yet
+that have huge screens and stuff. Um,
+just kidding. Uh, so we're going to go
+on settings.
+and increase the font size by
+let's make it 22.
+Let's put a very black color. I like it
+black. So once you go black
+you
+anyways.
+There you go. So
+this is a normal time in sales. Uh we're
+now in replay mode.
+because it's uh it's the weekend so
+markets are closed
+and let's play
+and let's see how this evolves. You see
+there's a lot of 1111 orders and per
+every second there's more contracts
+coming in.
+This is the time in sales. Let me pause
+that real quick. This basically tells us
+one contract sold market
+at 687925
+at this time 190035.
+This is the rawest form of order flow
+you can possibly find.
+Okay.
+And something very interesting is
+original gangsters
+of orderflow trading were only trading
+with these two charts
+time and sales and orderflow.
+Go and look at the story of Navinder
+Sarra,
+a guy
+who allegedly, even though it's, you
+know, we all we all know it's not true,
+crashed the stock market in 2008 during
+the flash crash, but something we know
+for sure is that he was using and he
+learned trading
+with these two charts,
+a time in sales and an order book. and
+he managed to make $50 million
+by of course manipulating the order
+book. So that's not advisable but he was
+very he was very successful even without
+any type of market manipulation because
+orderflow you know changed through time
+high frequency trading is now a big part
+of the orderful you see in fact you see
+all of these 1111 orders like why would
+I even need them right
+and so he you know he kind of raged
+against the machines and basically
+started manipulating the machines
+instead so this is a awesome very
+legendary story. Um, but he was doing
+something illegal which is called
+spoofing which sometimes you can
+actually see in the market still being
+done even though it's completely legal.
+We'll go deep into that pattern. It's a
+it's a book pattern.
+But he was using these two tools. He
+didn't need any price. He was just
+looking at the interaction of buyers and
+sellers and he just knew where price
+were going to go.
+This stuff you could do it in 2004.
+Right now it's way harder because the
+fast is the speed of the tape is really
+fast. Really, really fast. And we have
+an indicator for that as well, by the
+way. It's called speed of tape. Anyways,
+how do we translate this into something
+a little more useful, right? Because
+this is, you know, not always useful.
+Well, uh, let's go to settings again.
+And
+from input data, instead of clicking
+volume,
+we're going to go with aggregate trades.
+And this will use MBO data
+because a lot of these 1111
+are
+little pieces of the same order.
+So they could have the same order ID.
+And with MBO data,
+we can sum them up. Let's apply.
+Oh, look at that. Will you look at that?
+I still didn't put a filter, by the way,
+because you can filter and say, "Hey, I
+want to see at least, you know, minimum
+20 contracts." Okay,
+you can do that. Now it's minimum 20
+contracts,
+but you didn't have it before.
+aggregate trades.
+It's a in the time and sales an advanced
+function that basically
+reagregates all of those 1111 one one
+that are just simple volume. But thanks
+to MBO data,
+thanks to the fact that we can
+have an order ID
+that we can see that those four 46 1111
+contract were actually 146 order
+and as you move on and
+close this. So let's close this. Let's
+apply and say okay.
+Going to keep playing and you're going
+to see only the orders that matters.
+Well, that's a better way to visualize
+it. But it's still very raw.
+It's still very,
+you know, it's a completely different
+way of reading what's happening in the
+market. I get it. But this you need to
+know this because this is the basics of
+what then becomes footprint charts and
+volume etc etc etc.
+And there's a lot of settings here. I'm
+not a huge user of it but
+you can literally customize it however
+you want. There's a lot of settings like
+a lot of settings you can put alerts and
+it could be useful you know just to keep
+it on the screen on the side of the
+screen but this is not yet the sauce
+okay
+so this is the time in sales
+
+14
+Hi and welcome back to this orderflow
+course. Orderflow mastery by deep
+charts. This is orderflow tools 102
+depth of market
+or dome.
+This is the depth of market. This is the
+DOM. And what the DOM is, as we've
+understood, and you've probably seen me
+already using this a couple times, is
+the summary of the order book, right?
+And
+in the price ladder, what are all the
+orders in the bid and in the ask?
+And we use this and a lot of traders
+simply use this to trade. One of the my
+you know uh best trader friends Serge is
+you know a part of the team together
+with Tom behind the world trading
+champion Patrick Nail. He's just using
+this to trade. Sometimes he can simply
+trade just by using it just by looking
+at this chart. If you look at Navindra
+Saro he was also trading with this. I
+personally have never traded with this
+alone. I would have a really hard time
+because I need to look at price. I need
+to look at, you know, uh the auction
+overall. But there are a lot of scalpers
+and traders that simply use this,
+which is unconceivable unconceivable for
+me as a former price action trader.
+This is normality in the trading pits.
+We're just trading using the order book.
+Now, we're in a replay mode. So, I'm
+going to press play and we're going to
+see the auction develop in real time.
+And you can see price moving up and
+down, up and down. Everything we've seen
+until now
+in real time
+just from the side of the book. And you
+can see, for example, that all of the
+orders that are put here are changing.
+Look at this 150. 1 2 3 4 5 9 because
+people are deleting these orders.
+They're reststacking them on top.
+They're putting them, they're taking
+them off, putting back in, putting back
+off.
+And you can see price going up and down.
+But we don't see the executions
+actually, right? We just see this and
+price going up and down. We want to see
+also the sales, right? So we can
+activate, for example, a resettable
+volume profile.
+And let's reset it for a second.
+There you go. Well, now we can see not
+only
+the movement of price and the movement
+of the book, but how much money was
+traded there.
+This is crucial information
+to have in your order book in your dom
+in your depth of market. We can see
+there's a very big seller here. For
+example, we have 145 contracts
+ready to be sold here.
+And then price just moving up and down,
+up and down, up and down. And market
+makers
+getting eaten alive. Okay. And on this
+side, you can see the volume profile
+shaping itself
+and telling us how much money was traded
+in a specific price level. And from this
+one, from this type of tool, we can spot
+anomalies in the short-term order flow.
+And for example, we could have instead
+of just this, we could have a delta
+profile that tells us, for example, who
+was more aggressive and eventually who
+was absorbing, which is very useful. We
+had a a lot of buying going on here. A
+lot of aggressive buying that now has a
+follow through and some of the sellers
+were that was here that were here were
+deleted. Okay, we don't see them
+anymore. So, one could for example buy.
+Now, I'm doing it completely randomly,
+guys. So, don't just don't take it as a
+trade. Um, and for example, if I buy
+here, I can literally just buy directly
+from the book, right? And I can put a
+buy limit here or for example here
+and maybe follow the price. Let's see if
+this one gets filled as well.
+Yep, almost there. And as soon as price
+gets here, we're going to get filled.
+And I could place, for example, a sell
+limit here. You see, I can just trade
+inside of the book and add my orders on
+top of those ones. This going to be
+closing my position, right? Because it's
+a I'm already bought one contract. I'm
+long one contract.
+And this is going to be my take profit.
+It's going to close my one contract by
+selling it. Okay. Now, we have three
+contracts open. See, they're getting
+filled. And I can put a stop order here.
+And I can basically trade directly
+through the depth of market. I can place
+my orders inside of the book just like
+in a just like I'm interacting in real
+time with the market with the order
+book. This is absolutely fascinating
+stuff. And but aside from being just
+fascinating,
+you can see the evolution of the auction
+in real time, see liquidity being pulled
+and stacked,
+seeing with the volume profile where
+most of the trading happened. Now, for
+example, we just broke through a very
+high volume node. It's likely that we're
+going to move down a little more. Now,
+look at this. 995 contracts offered
+here. This is an anomaly right there. So
+I for example I can flatten and this one
+contract is likely going to be executed.
+Look at this.
+There was a huge seller and a big buyer
+that bought it right away.
+You have 900 contracts being executed
+here. So for example, I might join the
+party and start buying as well and place
+my stop below here. And if there's a
+momentic ignition right here and price
+pumping up the famous fu that uh Fabio
+made famous, there you go. I can just
+take a quick scalp and get out of the
+market. Okay, this is the type of
+trading that I'm far from being an
+expert of it. Okay, but this is the type
+of
+anomalies that you're kind of looking
+for
+and kind of taking advantage advantage
+of in the order book. It's a very
+frenetic way. It's a very hectic way of
+of of trading of course. Um but this is
+one of the way this tool is being used
+and that you can simply keep there to to
+to see the the auction develop in real
+time to you know keep a look on the big
+orders. You don't need to just look at
+all the numbers. Just look at what
+happens when there's a big order. Okay,
+there's a big order. Might be careful,
+right? And here you can monitor also how
+fast the book is going, how fast the
+tape, the so-called speed of tape.
+And that can tell you a lot about
+trading activity. Typically, when you
+see fast trading like now, you know, the
+tape moving really, really fast, you can
+kind of assume that that price movement
+might continue, right?
+And there you go. This is the order
+book. There's a lot of stuff that you
+can do here. There's a lot of stuff that
+you can um set. You can have for example
+a bid ask uh footprint. Now all of that
+absorption error was completely walk
+through. So we might expect some selling
+activity for example and
+you can either have the fundamental here
+which is like just some basic you know
+uh percentage volume the total volume
+blah blah blah some some basic orderflow
+uh data. You can either also hide the
+trading panel if you don't want it. You
+can uh
+not have anything at all and just have a
+clean book.
+And you can completely customize by the
+way in the settings what types of column
+do you want, right? So for example,
+yeah, that's the bit column. You can
+change the color. For example, I might
+want to change it at, you know, green
+and this one with this green.
+And now I have it in a different color.
+Okay.
+And
+I can add a pool stack column that
+basically if I click okay, let's see.
+Tells me the variation
+of how much was put in the book or taken
+away from the book. Okay,
+this is the pool in stack.
+I can have a filled column. So, how many
+orders were actually filled? Let me take
+off this pull stack. I can have a
+filled. So, it's going to tell me the
+orders that were actually filled. So,
+it's basically like a footprint chart in
+real time.
+So, how many orders were filled? So,
+in the bid and in the ask.
+Okay. And I can see them with numbers
+without requiring the the the the bid
+ask volume profile. So I can just keep a
+for example volume normal volume profile
+here have the you know
+footprint in the middle and also maybe
+have a delta footprint. So this can be a
+very complete way of looking at the
+markets in real time. And I can add many
+other columns. For example, offers,
+order settings,
+what color do you want them? What color
+you want the price scales? Do you want
+the P&L? Do you want to see the P&L
+column with the money going up and down?
+Or you can just delete it and not have
+it at all. And that's pretty much what
+you need to know about the depth of
+market and how you can use this. A lot
+of professionals use this. It's an
+amazing tool. It's a different type of
+visualization. I know it. And I strongly
+advise you to spend some time looking at
+the book because it's the rawest form of
+orderflow and it's one of probably the
+best ways to get to know orderflow to
+get to understand the language to learn
+how to read the auction. So I strongly
+advise you to do that even with a replay
+just like we're doing right now. And
+that's it for the depth of market. I
+will see you in the next video.
+
+15
+Hi and welcome back to this orderflow
+course, orderflow tools 103. We're going
+to get to know the deep print, also
+known as orderflow candles, deep
+candles, footprint,
+candles on steroids,
+or however you want to call it. So,
+we're going to take a normal chart.
+Okay. Or we can simply go on deep
+charts, you know, in the main bar and
+click new price chart. Right? You're
+going to select your
+E- mini S&P and voila, you have the
+chart, the same one that I have here.
+Now, I'm going to close this.
+And one of the options you have to do it
+very quickly and swiftly
+is to for example
+activate orderflow bid ask right from
+here
+and it's going to build a chart for you
+and if you zoom in
+you're going to be able to see the bid
+ask footprint.
+Now let's go down drop into some minor
+time frames
+and let's go to the one minute time
+frame. This is one of the time frame I
+prefer to read the footprint chart
+and this is one type of visualization.
+Okay,
+it could be improved I would say right
+so let's make it better. We can go here.
+This is just the basic version, right?
+Uh but you can go inside here and all of
+the settings pops up.
+So this is a ask bid
+footprint chart, right? So it's just
+showing you orders that hit the bid on
+this side and lifted the ask on this
+other side. So aggressive selling and
+aggressive buying.
+You can also have it a volume, right?
+Just the total volume here
+or you can have just the delta. Okay, so
+the difference between total volume ask
+bid and delta is
+the total volume is simply doing this
+number plus this number.
+Delta is doing this number minus this
+number.
+That's it. Super easy. So 81 + 110.
+Let's put volume. Um let's let's first
+make the text slightly bigger because
+now is the font size. It's pretty
+practically invisible for you guys
+probably. So let me put that really big.
+There you go.
+Is 191. the total volume
+81 + 110
+110 minus 81
+so I put delta it's 29 right
+and you can have it as a box now it's
+it's written box
+um because we don't see the background
+of it but you can go on plot settings
+background ground and for example
+color mode fixed.
+And now you can see a little bit of the
+background
+or fading color which is what typically
+I use or multiple colors
+and the color calculation. How do you
+want it to be colored? based on volume
+or based on delta
+or dominant volume
+or volume dominant delta.
+To be honest, I always give it a delta
+to keep it simple.
+And
+the background is this one. So, for
+example, I might want to put it a little
+bit more lighter.
+Yeah.
+And for example, I want to put my text
+with a main color being
+[Music]
+on the text settings.
+Yeah, text settings coloration.
+I'm going to put it black.
+Yes, I prefer it, for example, like
+this. But to be honest, I have my
+template for this. My one minute entry
+template
+that is going to load now, but it's
+going to load a little bit more because
+I typically have 60 days of chart to
+load. So, let's give it a little bit of
+time to load.
+And there you have it. I'm going to take
+off all the rest of the stuff that we're
+going to see later in the course.
+And there you go. Look how beautiful and
+clean this is. My god. I make it even
+cleaner by putting the chart area black,
+just how I like it. And there you go.
+Nice. So
+let's have this one here
+and in the properties let's make
+indicators autoflow analyzer or dip
+print
+let's make in the plot setting the text
+slightly bigger
+and let's get to know our footprint
+chart. So a quick reminder of how this
+works. Let's have this on the side and
+this here.
+And with our replay, we're going to play
+and we're going to see this thing
+developed side by side with our depth of
+market in real time.
+There you go.
+Now you can see both of them moving at
+the same time.
+And this is basically summarizing the
+end result of what happens here. So we
+have passive buyers, passive sellers,
+the volume profile and this simply tells
+us okay this is the summary of all
+aggressive buying the summary of all
+aggressive selling. So you can also
+guess here what happened in the book
+because if you see for example just like
+we saw slightly before
+this happening in the book we saw a big
+$900 order.
+Sorry a big 900 contracts order.
+Well that's where it is.
+We don't see it. We don't see it before.
+Right here we can see it before it gets
+filled. Here we see it only once it gets
+filled, which is ultimately what
+matters, right? Some might argue what
+actually matters is executed orders, not
+fake orders that have been spoofed here.
+So maybe they put it, they take it off,
+they put it again, they take it off.
+It's unreliable information. So I'm just
+going to stick with what matters and
+just have the orders that were actually
+executed. That's a stance I can
+understand.
+Okay. So this is what the footprint
+chart does or the diprint does. It shows
+us the summary of the auction that
+created the candle.
+This is the best way to analyze
+market movements
+and it gives us some very important
+data. So let's kind of diversify all of
+these colors, what they mean, etc.
+The background color is green. Here it's
+purple. And the darker it gets, the
+higher the delta.
+So you're going to compare the number of
+this with the number of this. And if
+this one is increasingly more than this
+one,
+this one is going to get greener. Same
+thing here. 68 2007. Well, this one is
+going to get colored purple. Okay. So
+the delta
+as we discussed is this minus this or
+this minus this. So the color is based
+on delta.
+The color of the text instead is based
+on something called auction imbalance.
+And by auction imbalance what we mean is
+the imbalance between what was traded
+and bought from the ask.
+So what was bought from the ask and what
+was sold in the bid in that auction
+because you know you always have the
+best bid and the best ask at one tick
+difference right here. Let me let me
+pause this for a second.
+So you always have
+best bid at 50. Sorry, best ask at 50,
+best bid at 25.
+So
+this is the best ask. Sorry, now this is
+the best bid. This is the best ask,
+right? So this is how the auction
+unfolds diagonally.
+So this is the this is one auction,
+right?
+Best bid, best task, best bid, best
+task, best bid, best task. So there's
+always this
+diagonal
+representation of it, right? That's why
+we have zero here and zero here for
+example. Right?
+So it's going like this. It's going like
+this.
+And then typically you have zero here
+and zero here. That's what also we call
+when you have a zero and a zero. We call
+this a finished auction. And we call
+this a finished auction.
+When we see a number here instead of the
+zero or a number here instead of the
+zero like here as well, we call it an
+unfinished
+auction. Okay? And we typically expect
+those levels to be taken out. But you
+know whether they take it out or the
+statistical advantage of it. I'm not
+going to give you any guarantee on that.
+But this is something that you know a
+lot of orderflow traders are actually
+looking at. Um
+so these numbers are colored based on
+the imbalance between
+what was traded in the best bid and in
+the ask in that auction. So diagonally
+speaking. So you compare 78 with three.
+Well that's a big imbalance. And we
+measure the imbalance typically in
+percentage. So you will see a slightly
+light blue color when there's a at least
+a 200%
+imbalance
+and a very highlighted
+light blue color when there is at least
+a 400%
+imbalance.
+So this number being at least four times
+bigger than this number.
+Same here in purple, light purple.
+You're going to see if there's
+an imbalance of at least 200%.
+And in case the imbalance
+is
+more than four times, so more than 400%,
+you're going to see it very
+punchy and with a big highlight
+when it's 400%.
+And in some situations,
+you know, you're going to see both.
+You're going to see both a high color
+indicating the imbalance, a high color
+in the background indicating delta,
+and that's where you know there's
+something real going on. Right? This is
+called this is a a clear example of of
+absorption.
+And this instead this yellow box that I
+can see here is the point of control. So
+the point of the candle p
+which is the point in the candle where
+the most the highest amount of volume
+was executed.
+Okay.
+And these are all really crucial data
+points in my opinion to formulate a
+hypothesis of what's going on in the
+market on who's dominating in the
+markets.
+Because for example here, you know,
+there was a lot of aggressive buying
+happening and there was a big seller in
+the book.
+Well, we tried that didn't work and then
+we poked out of it and as soon as it got
+broken then we have a long auction that
+lasts for quite some time.
+Right? So, what the footprint is doing
+is showing us a picture, a very clear
+picture of the auction. And in the
+tutorial section of your user area
+inside of deep charts, you're going to
+be able to find everything that relates
+to every single thing about the
+footprint chart. But I'm going to go
+quickly through it. Um, you're going to
+also you can also able to have, for
+example, as I said, a volume, but not
+box because this is the box version, but
+a profile version. for example, it's
+going to show you a profile instead of a
+single box of that level. Right?
+This is one other type of visualization
+of this. Uh if you want to set for
+example a different type of imbalance,
+you can go to plot settings and in the
+text
+coloration settings, you're going to
+open them and the color mode here is
+multiple color based on imbalance. I can
+go to range and set userdefined range.
+And you're going to be able to see here
+that the first range is all black. So
+the basic color is black. Second range
+is not enabled. You have third range,
+fourth range. You can set even different
+ranges. Okay? I have the 200 and the
+400% that I told you. So with the 200 is
+light blue, light purple, light pink.
+400% is punchy blue, punchy pink. You
+could even get crazier with this. Okay?
+You can have a f a fifth range when
+there's a you know 600 or a,000%
+imbalance right and you know put it when
+put it in I don't know a very different
+color red for example
+and
+you're going to apply and save
+put it back to ask bid
+And now you're going to see also those
+red when there's a huge huge huge huge
+huge imbalance. Right?
+And this is the footprint chart. Okay,
+this is the basics of the footprint
+chart. And I personally like this for
+example to put multiple footprint charts
+on top. For example, my five minute time
+frame template for the footprint.
+I'm going to show it to you now. Just
+give one second to load.
+So, it's going to load the chart now and
+you know rebuild the chart based on a
+different version of the footprint
+chart.
+And there you have it. This is another
+type of visualization of the same chart
+but on a five minute time frame
+and with both the bid and the ask
+where you have both the bid and the ask
+and a volume profile. So I have the
+volume profile that tells me where the
+most money was traded in general. The
+footprint chart with a beat version that
+tells me who was more aggressive and the
+volume profile chart itself is colored
+through delta. So I have all of the
+informations I need all in a single
+chart where I can basically put one
+chart on top of the other one. Okay. And
+the cool thing about this is for example
+I might go and you know have in the
+indicators tab both orderflow uh
+analyzers and I might not want them one
+on top of each other. I might for
+example go to advanced and have it half
+of the size with
+a half of an offset and have this on the
+side. And then go to the settings of the
+other one. Go to advanced again. Have it
+half of the size again
+but without any offset.
+And I can simply split my profile my um
+footprint sorry into two and have them
+split instead. And this is how
+customizable it is. And with all these
+customization you can literally get
+every type of visualization that you
+want. And I strongly advise you through
+time to find your way to personalize
+your charts to uh you know play with the
+settings a little bit. See the type of
+orderflow imbalances that are important
+for you. The type of colors that you
+need, the type of information that you
+think you need and you want to get out
+of this uh deep print indicator because
+it's super customizable. It can, you
+know, get you to the point where you
+have all the information you need. And
+we're going to provide you with all of
+these templates, of course, but you
+know, this is everything you need to
+know about the footprint chart and on
+how to use it and how we're going to
+read it and all of the details. We're
+going to go deep into the next few
+lessons. for this lesson. That's all.
+
+16
+Hi and welcome back to this orderflow
+mastery course by deep charts. Uh in
+this video we're going to take a look at
+orderflow tools 104 deep profile or
+volume profile. Another crucial tool to
+understand where the money is going to
+assess market structure to individualize
+auction moments and the best areas of
+volutric support and volumetric
+resistance.
+So this is a daily volume profile. Okay.
+And as the word says, it's the profile
+of volume. So volume by price tells us
+how much volume was traded per level of
+price. How much money was traded per
+level of price. Okay? And
+you can very clearly see there's
+different types of zones, there's
+different types of areas, there's
+different types of colors. And we're
+going to go through all of that in this
+video right now. So the first thing you
+can notice is there's different colors,
+right? And
+you get an orange area over here and a
+gray area outside. The orange area is
+also known as the value area. Okay? So
+the area where most volume was traded.
+We'll get deep into how much volume was
+traded exactly in that area very soon.
+The other thing that you can clearly see
+is
+peaks highlighted in
+purple or pink. And we call them peaks
+or high volume nodes. Okay? And you can
+see from
+the volume profile areas where there was
+a lot of trading activity going on,
+areas where a lot of volume was traded,
+right?
+We call these high volume nodes or
+peaks. And then you have white areas,
+right? These guys.
+And these are basically low volume
+nodes. So
+points where the volume is considerably
+lower than let's say the rest. So you
+have peaks and you have these that are
+also called valleys.
+And
+in general,
+areas where there's a lot of volume,
+areas where there's less volume. Okay?
+And
+what this means is price and the market
+itself spend a lot of times into high
+volume areas and traded a lot of money.
+Okay,
+in these areas there was not a lot of
+money traded in this area as well.
+And
+we call this area the fair value area
+because both
+aggressive sellers
+and aggressive buyers and passive
+sellers and passive buyers were mostly
+agreeing that the best price to trade
+the best area of price to trade is this
+one. So what you will probably see from
+the price action that is uh you know
+derived from this volume activity will
+likely be something like this.
+Okay, where there's not a lot of price
+action going on here. So not a lot of
+volume being traded around
+and a lot of trading volume and a lot of
+trading activity and a lot of trading
+being done at these prices
+for a long time as well. Okay.
+And
+this shows you how much money was traded
+in a single day or in a single session,
+however you set it. And how the volume
+is often distributed. And the area that
+is currently highlighted, also known as
+the fair value area, is
+derived from a specific number that
+comes from the normal distribution of
+probabilities in a sample or the
+Gaussian curve,
+which is also known as the standard
+deviation, the first standard deviation.
+And we'll understand now what that is
+because that's crucial to understand.
+Um,
+in most things that we can measure, in
+most events that we can measure with big
+samples of data, you will likely see
+something very similar to this curve,
+right?
+And
+34% of the samples typically will tend
+to be
+within this average range
+which we call the first standard
+deviation.
+This is the second standard deviation.
+This is the third standard deviation.
+Okay.
+So
+within the first standard deviation you
+will see 68% around 70% let's say of the
+samples
+within the second standard deviation
+you'll have 95% in the third standard
+deviation you'll have 99%.
+And this is true and common and
+observable
+in a lot of samples of data. For
+example, the length of penises,
+the average length of penises,
+if you look at the distribution of the
+length of penises, it will have this
+sort of distribution where most of the
+people will have an average sized penis
+and a few people will have
+super small or super big sized penises.
+This is the distribution of male height.
+And also here
+it has this shape right where you have a
+lot of people in the average area from
+165 to 175.
+Very few people above 180 which is six
+foot around six foot and very few people
+below that.
+So
+whatever we try and measure
+will tend in nature to have this sort of
+distribution of probability. So getting
+back to this you will have
+a 68% probability of ending up between
+this range.
+you will have 13% probability of falling
+between this range 2% probability of
+falling under this range.
+So
+this is where most elements are and
+these are where the fewest elements tend
+to be. Okay.
+And with the volume profile, we can
+assume kind of the same because we can
+take how the distribution is
+all the distribution of volume
+throughout that day and we'll see where
+most of the volume was traded. And we
+know that volumetrically speaking,
+moneywise,
+this was the first standard deviation.
+And so we also know that whatever
+happens outside of
+This range is statistically speaking
+related to the volume traded during that
+day an anomaly.
+And
+both outside these areas and inside of
+this area,
+crucial moments in the action of money
+and order flow happen throughout a day.
+because there's some you know
+tendencies that price or the market will
+have when you reach these
+areas of price.
+So here I have plotted in the chart the
+volume profile of the cash session of
+each cash session. And as you can see
+clearly
+the areas where price spent the most
+time are the areas where most volume was
+traded. Okay. A lot of time spent here.
+A lot of trading activity happened here.
+And these are the areas where you could
+expect in the future sessions as well
+some level of trading activity and
+reversal from the areas where you get
+out of a fair valuation.
+So
+what you will typically do in any
+scenario like this is taking the ledges
+outside of the first standard deviation
+and also in the following session.
+You'll see that pretty much those are
+the areas where
+you have a higher likelihood of seeing
+rejections from price because if during
+a specific session price consider these
+prices to be fair or better buyers and
+sellers on the aggressive side and on
+the passive side consider these prices
+to be fair.
+There is some level of likelihood that
+if we get further out
+from this fair valuation of the previous
+day, we will get back inside.
+Trade back inside of it. Test the same
+areas where
+these buyers and sellers agreed to
+auction higher until we reach something
+similar to the previous area. and then
+back down again up from here and that's
+where we stop once more. So these areas
+act as a
+actual support and resistance and not
+because price is bouncing there multiple
+times but because there is something
+making price bounce there multiple times
+which is institutional interest and
+money.
+Now
+of course with the benefit of hind
+hindsight you know all of the areas are
+going to work super super good. So this
+is again not a
+law but
+I strongly advise you to go back in time
+and not just go back in time but also
+with a forwardlooking type of approach.
+take these
+high value, high volume level areas and
+see how they react.
+See how price in the following sessions
+react to these areas because a lot of
+the auction market theory models come
+exactly for this. We have a fair
+valuation here. Price opens in the
+following session outside and fastly
+very quickly breaks back inside. The
+first reaction happens where here
+price tries to auction outside of the
+fair valuation
+but the auction is not ready yet. So we
+jump right back inside. And when we do
+that where do we test here
+and once that auction is exhausted
+then we move on to the other side of the
+value area. Okay. So
+this is something that you will see
+happening all throughout
+sessions throughout you know
+days and weeks in the weekly profiles
+and the daily profiles etc etc and you
+will see this happening all the time.
+For example, this is the previous fair
+value area.
+And in the following sessions, this is
+the area that pretty much keeps the
+market in check. So
+this is our area.
+This is where most of the money was
+traded. This was where most
+institutional
+traders and investors and HFTs and
+long-term traders were agreeing is a
+fair price.
+Session closes here.
+Following session opens.
+First thing we do is we auction lower.
+We bounce right back from the previous
+area of support which is our value area.
+We test it one more time. We reach the
+other side. There you go. Failed auction
+one. Tries to auction higher. One more
+auction.
+Goes higher. Can't manage to do it. And
+then you get, you know, you will just
+see what happens with orderflow here. We
+drop back inside. almost get to the
+other side, test, and then run to the
+other side. Okay,
+next session. We're open inside of the
+fair value area, which is this one.
+And another thing really cool thing you
+can do is click
+and
+of course just click on the volume
+profile per se
+volume profile merge plus and it's going
+to merge the two volume profiles. So now
+you have one big fair valuation area
+which is more precise
+and considering the volume of two
+sessions right because they were
+basically overlapping. So when the
+following cash s cash session opens,
+you'll see a very aggressive sell
+momentum that bounces where? Right here.
+And when finally we break below it, we
+have a very intense
+sell auction because of all of the
+aggression that happens when we get
+outside of these areas. Because outside
+of these areas is where the anomalies
+happen.
+Because statistically speaking, most of
+the trading is done here. And most of
+the selling happens when we try to get
+outside of here, for example, and most
+of the buying always happened when we
+try to get below here because we are
+outside of the normal distribution and
+of the statistical probability that
+price will stay inside of that area. So
+whatever goes outside is an anomaly.
+That's where opportunities happen.
+An opportunity to buy at a discount
+compared to the normal distribution
+because you are you are statistically
+speaking looking at money at a valuation
+that is outside normal. And so there is
+always going to be some form of
+reversion to the mean
+either from the downside or either from
+the upside.
+And these are the areas where most of
+the aggressive selling would happen,
+aggressive buying would happen and
+protection from passive participants
+from the sell side and from the buy side
+will happen.
+But whenever we manage to break with
+strength outside of these areas,
+well, that's where volume increases
+and we're ready for a new auction. But
+before managing to
+flip the auction completely, where do we
+test
+the same area?
+Because the same sellers that allowed
+this to happen are considering these
+prices premium. So they will still
+consider them as premium prices compared
+to the volume, not compared to some
+Fibonacci, not compared to anything else
+but money.
+And we drop down for the rest of the
+session.
+We open. We have this as the main
+valuation of the previous session. Even
+though it was very directional, but look
+at where you find rejections,
+rejections, rejections. Same level, same
+area.
+And when we break back inside,
+we understand this was
+a bigger version, just a bigger version
+of this, which is a failed auction.
+And we understand that once we get back
+inside, these are the same areas where
+we'll auction test and go to the other
+side once more. This is the power of
+volume profile. This is the power of the
+auction market theory that we will get
+even deeper into later. And one of the
+levels that you will find in the volume
+profile is the point of control. And the
+point of control is
+personally not one of the
+let's say a lot of people
+overestimate it
+because there's some level of randomness
+right there's some level of randomness
+involved in where
+the highest level of volume the highest
+the absolute highest single tick
+where most volume was traded
+do not have in my does not have in my
+opinion a great statistical reference as
+much as this, right?
+Because you know it could be here. It
+could be it could have been this one
+with a couple more contracts. It could
+have been this one with a couple more
+contracts. Could have been you know this
+one with a couple more contracts or this
+one pretty much the same, right? So the
+single point you know a lot of people
+say yeah just place a pending order here
+and sell from the point of control.
+Yeah, you know what? That's not you know
+it's not a reliable model. That's not a
+reliable statistical reference. It's
+simp it could be more random. There's a
+lot of trading activity going on.
+There's a lot of algorithms involved in
+the price action. So I would not
+consider the point of control itself to
+be the main statistical reference. What
+you could argue with, you know, a little
+bit more,
+you know,
+rationality involved is not the point of
+control itself, but the areas with a
+volume peak, that may be an area of
+institutional interest. Yes, absolutely.
+Yes.
+the areas of low volume though
+as well
+because those prices were considered
+unfair and that's where you see also a a
+lot a lot of reaction from price.
+So you can have a daily profile just
+like this one. You can merge them and
+then you can have for example a weekly
+profile. There's all sorts of profiles.
+You could have a
+deep profile,
+add it to your chart.
+You can put it on volume on delta
+and you can have a composite volume
+profile
+which basically is going to give you a
+profile of the entire chart you're
+looking at.
+If you do this to look at long-term
+areas of interesting volume activity, I
+kind of advise you to
+go to the plot settings
+and in the visual appearance align it to
+the right.
+get rid of the value area
+and just look at
+the main areas.
+Just look at ledges. And by ledges, I
+mean whenever you see
+from a big volume spike to a low volume
+node, you're going to take all of that
+area. That's your ledge.
+from a big to a low.
+And basically whatever is inside could
+be considered as your value area. When
+you see sudden drops in volumes, that's
+your ledges.
+That's where you see a lot of reactions
+coming from.
+And this is pretty much all of the
+basics that you need to know about the
+volume profile. We'll get deep into that
+practically also in the next, you know,
+uh, sessions. But this is what you need
+to know about the volume profile. I'll
+see you in the next
+
+17.
+Hi and welcome back to orderflow
+mastery. This is orderflow tools 105
+deep stats or orderflow values. Um this
+is an indicator that I think it's very
+very useful for scalpers and traders um
+that can be summarized in different
+ways, can be visualized in different
+ways. There's so many data. Um, and it's
+basically a table that shows you the
+values of each candles related to
+orderflow. And this is how it looks
+like. It's the chart down here.
+And based on how you set it up, it will
+give you some information. Okay?
+and
+you just find it in the indicators under
+deep stats or orderflow values.
+And there's a lot of them. Okay, there's
+literally a lot of them. We're not going
+to go through all of them. Now, I'll
+tell you my favorite ones on this
+indicator specifically are total volume,
+delta volume,
+and delta percentage.
+So you want I want you to go to delta
+volume, select text, delta volume,
+select text, not ignore.
+You're probably going to get delta NT. I
+I want you to put ignore and delta
+percentage text. That's how you activate
+it. And that's how you have it. Now, uh
+let me show you a little bit how it
+works and how it's calculated. Uh when
+you take a footprint chart just like
+this one, you're going to have
+As a reminder, as a as a reminder, ask
+traded. So buy aggressive buy orders
+that lifted the ask. So traded on the
+ask, aggressive buyers and bid traded.
+So aggressive sellers accepting sell
+offers. Sorry, accepting buy offers and
+selling to the bid, hitting the bid.
+So this would be the total bid traded
+and this will be the total ask traded.
+So if you sum it up 19
+total bid traded and 20 total ask traded
+you get the total volume. So bid traded
+plus ask traded is the total volume
+which in this case would be 39.
+If you do bid traded minus ask traded
+you get the volume delta.
+Okay. So you take all the bought minus
+all the sold aggressively
+and you get this.
+That's volume delta.
+So delta is answering to the question
+who was more aggressive.
+Who was the predominantly aggressive
+participant inside of this candle and by
+how many contracts?
+By how much?
+Well, one over around 40 contracts. It's
+not a lot, right? Buyers were like this
+was a pretty balanced candle if you look
+at the effort that was put in,
+but the result is sell. So, you want to
+use delta always in the context of
+effort versus result,
+which is you know the basics of volume
+spread analysis. And you know if we go
+even back to the early stages of Waco
+theory.
+So whenever you take a look at order of
+flow stats in this
+table here, this is what you'd normally
+see. Total volume on the orange one,
+which is the total volume traded on each
+candle.
+the volume delta.
+So instead of doing
+bid or better ask traded minus sorry
+plus bid traded you're going to do ask
+traded minus bit traded and you get the
+delta. So the delta tells you the net
+aggression of a candle.
+But as we will see, it could also mean
+absorption.
+This one here is the delta percentage.
+So in percentage compared to the total
+volume of the candle, how much of that
+volume was aggressive selling? In this
+case, 6%. In this case, 20%. In this
+case, 10% was buying, aggressive buying.
+So it gives us
+with a very simple number
+a summary of the order flow of each
+candle. So it's very very useful and
+this will come in very handy to spot
+significant candles. For example,
+inside here
+inside this chart area in this time
+frame you had 2.6 6 2.6 2.3 1.7 1.7 3.2
+3.2 1.6 5.9
+Well, this is a candle that is has way
+more volume than all the rest of them.
+And we also see that it has an a huge
+delta compared to the other ones.
+Hence, a huge delta percentage compared
+to the previous ones.
+Plus, it's a very big candle. And you
+will see if you look at in what's
+happening inside, you will see that
+there's something going on here, right?
+There's a big sell
+aggressive series of orders that are
+trying to be blocked by a buyer and
+eventually that buyer fails.
+Sellers, this big big sellers are in
+control and the auction moves lower.
+This is stuff that you simply do not see
+with price action. Okay,
+so a big trader, there was a war between
+two big traders here. One was in the
+bid, one was selling onto it
+and one prevailed clearly
+and sold thousands of contracts and
+caused a huge swing in price.
+This is an extremely good sign for a
+breakout. It's just objective that
+during this breakout there was a lot
+more volume. There was a lot more money
+involved in this candle that you simply
+cannot see. Even this candle was big.
+This candle was big. Yes.
+But this candle had volume. This candle
+has institute clear institutional
+interest that you can see with numbers,
+not by guessing.
+This was a wall of orders that got
+completely ran through
+and we moved below.
+And this is the power of orderflow. And
+we can use this as our map for overall
+orderflow activity.
+And you will start noticing something.
+You'll start noticing, for example, that
+most of the breakouts, not all of them,
+but most of the breakouts that hold
+happen to be high volume breakouts.
+For example, here, what you'll typically
+see during a breakout is an increase in
+volume.
+So, we had this as a main range
+at 4,000 5,000ish.
+And whenever we break out,
+look at this. 8,000 contracts, 700
+delta, which is at least 10%.
+And then we move high.
+Whenever there's
+a lot of volume, a lot of aggression, a
+lot of delta, typically
+the breakout will hold because there's
+an imbalance. There's a clear imbalance.
+And again here,
+you can't compare.
+Oh, there was a lot of selling going on
+here, right? All of aggressive selling.
+18% delta 1.2,000. Where where are they?
+Very small candle. Why? Oh, look at
+that. Something went on here. Something
+was absorbed here.
+Interesting.
+But what happened after? We tried to
+auction lower. Absorbed again.
+This is a big ass candle, but a flat
+delta. That's a discrepancy.
+And what happened here? Oh, there was an
+aggressive buyer that got absorbed as
+well. So I can start seeing first I have
+my indication below here
+and then I can go like a detective into
+the details and realize a lot of
+liquidity here, a lot of liquidity here,
+a lot of money here, a lot of money
+here. Okay, so this is what we also call
+a liquidity pocket. So a specific area
+with a lot of liquidity, a lot of
+trading going on. And once that's broken
+through as well, guess what happens?
+We move higher. How do we break?
+We break above the range.
+What happens? High volume again. Five,
+five, five, six, seven. 15% delta, 20%
+delta, big aggression. Boom. And we fly
+higher. Okay.
+So, this is how this tool can be useful.
+I'll see you in the next
+
+18
+Hi and welcome back to orderflow
+mastery. This is orderflow tools 106
+cumulative volume delta. very powerful
+indicator um that takes something
+similar to what we've seen in the
+previous indicator with the orderflow
+values and basically plots it on a chart
+which is even easier to understand and
+gives us a different perspective around
+delta and around market pressure.
+So
+we take the same chart and we add this
+on top which is the cumulative volume
+delta. You can find here in indicators
+cumulative volume delta
+candlesticks.
+So let's take
+this as an example
+where
+and let's start from the beginning of
+the session because that's where the
+cumulative volume delta starts
+happening. Let's say
+so
+let me make it wider for you.
+Yeah. So as you will see
+every day the cumulative volume delta
+will start from level zero right
+level zero.
+And
+by plotting candlestick it will show you
+how delta varies throughout a candle.
+And for example,
+if we have
+a delta of 51,
+the candle will go up
+around
+51.
+If the delta of the following candle is
+- 9, well, this will go - 9.
+If there's a -26,
+the candle will be big and go -26.
++ 71 + 71. So
+the only difference between this one and
+this one is this one is cumulative. So
+it takes into consideration the total
+delta of the entire session and shows
+you how the delta varies throughout the
+session.
+And you can quickly compare it with
+price action and make some interesting
+consideration and building a narrative
+around what price is doing compared to
+what the pressure of aggressors
+is doing. Okay.
+So for example,
+in a situation like this one,
+you could notice, for example, that
+during
+this situation where you had one swing
+low, swings slightly lower and then
+high.
+What did you have from the volume delta?
+Well, let's see.
+You had
+the delta and the pressure going down
+and then not plotting another low.
+So whenever you see that in this leg
+price went down and in this leg price
+went down but
+the delta didn't
+it clearly shows us that there was more
+effort
+on this leg
+that caused price to drop.
+There was not as much effort on this
+one.
+Big effort, big result, not a lot of
+effort, but still some result.
+So this thing tells us that in this leg
+of price, there was less aggression,
+less interest, less participation.
+In fact, that's what a lot of
+orderflow traders calls this a lack of
+participation pattern.
+So whenever you see price doing this
+plotting a low and the volume delta
+not plotting a low so there's a
+divergence of this type we call this a
+lack of participation
+because during the second leg of price
+the aggressive sellers that caused the
+movement are not that present.
+typically.
+Now let's make some sort of opposite
+example where you see that this leg went
+down in price. You had a leg down in
+delta.
+Price went back up
+and then another leg down. And here you
+have this and this.
+So you have an opposite example
+where
+during this leg a lot of effort brought
+a lower low
+result
+and here a lot of effort
+did not bring a lot of results.
+That's an interesting data point because
+it can tells us that for example there's
+divergence of this
+low compared to this
+lower low.
+And if you take the same ones in the
+CVD, you'll see this.
+And that typically happens during
+absorptions
+because this effort did not bring to a
+result in price while this effort did.
+This lag created a lag that went lower.
+This leg
+went lower.
+but not in price.
+Big effort, less results.
+So we typically call this pattern
+absorption.
+So if this
+is a lack of participation in the
+movement,
+this
+is a lot of effort in this movement. but
+very low results. So absorption. So this
+is what we call an absorption
+in the CBD. These are the two main
+patterns. You know this is the classical
+bread and butter of CBD. Okay. But you
+want to look at this in the very short
+time frame. Typically you don't want to
+look at it on a session perspective
+because it can be misleading at times.
+You'll see for entire sessions this
+delta going up and price going down.
+That's completely normal. Look at this
+one.
+That just means that
+in this price swing, buyers were more
+aggressive
+were more on the aggressive side and
+sellers were more present in the book on
+the passive side. So they were more
+absorbed throughout this whole thing
+down. This could be a whole absorption,
+right? But we don't need this. It's not
+useful to assess
+long-term price
+movements.
+It's really useful for short-term
+divergences. So, a lot of scalpers will
+use this type of divergence.
+Uh I personally
+prefer to use this in combination with
+the footprint because in the footprint I
+can not only spot absorptions very
+easily but I can see where they are and
+what happened right after. So this is a
+cool summary. Yes, but I wouldn't say
+it's 100 1,000% necessary. Okay.
+But it's a very valuable indicator that
+you can use. Absolutely.
+So this was the CVD and in the live
+sessions you will also see let's say
+more practical examples but this is all
+you need to know about one of the main
+orderflow tools.
+
+
+16.1
+Hi and welcome back to Orderflow Tools.
+This is Orderflow Tools 107 VWAP or
+volume weighted average price.
+And this is a very interesting
+indicator. really really interesting
+volume level
+which is basically
+the average price weighted by volume. So
+it's just like a
+an average, right? Sort of a moving
+average you could say you could argue,
+but that takes into consideration
+also the volume. So what was the average
+price where the average volume was
+traded?
+And for example, in a session, you know,
+after a session, this might be the VWAP,
+the volume weighted average price. For
+example, in a session like this,
+you could see maybe at the end of the
+session, this would be the VWAP,
+but it develops throughout the whole
+session. It start here and then it
+follows price typically, right? So you
+can see the development of the VWAP
+throughout the day.
+And why is this important is because
+it is knowingly it's it's very known to
+be an institutional reference for
+filling orders because this is
+objectively telling you
+the volume volume weighted average
+price. So if you have a VWAP, you know,
+if this is the VWAP of a session,
+anything below the VWAP is objectively
+discount
+based on the price and based of the
+volume.
+Anything above this will be
+premium objectively
+based on price and volume based on
+money.
+Let's take an example here and
+we have plotted here the VWAP right and
+the VWAP you can simply create an
+orderflow u VBP values or deep profile
+values go to the VWAP enable it and
+enable the developing VWAP and this will
+appear exactly like this. So every
+session has its own
+volume weighted average price
+moving up and down. And you'll see that
+a lot of the times this will be the
+level that they'll keep buying and
+selling at and it will serve as an area
+of support or resistance or a breakout
+type of thing. Even better than that, as
+we know that this is a dynamic
+representation of fair value. So we
+could call it a dynamic fair value.
+So the adapted average fair value of the
+day. We can also use the same
+statistical concept of
+standard deviation
+and plot standard deviation bands all
+around it.
+So we go into the settings and activate
+the envelopes. And in the settings
+we set the first envelope with a
+standard deviation parameter of one.
+I have typically 1.5 standard deviation.
+two standard deviations
+and three standard deviations. So I
+normally have one, two and three. You
+can have 1.5, one, 2.5, however you like
+it. We apply it and we get these bands.
+And these
+are again
+just like we did with the volume profile
+where we had
+most of the volume traded here and
+anomalies happening outside and that's
+where we look for trade opportunities
+not in the middle right because that's
+where the average goes.
+Same thing happens here. The only thing
+is
+this is the first standard deviation.
+This is the second standard deviation.
+This is the third standard deviation.
+Right? So remember our bell curve. Our
+bell curve will be something like this.
+It's the same thing but it's a not just
+based on volume but based on volume and
+price.
+This is going to be the average and
+these are the standard deviations from
+the average. And whenever we reach the
+second or third standard deviation,
+that's where typically you're going to
+see a lot of rejection and a lot of
+the retracements and mean reversion
+setups starting to happen. So you can
+either use these as dynamic target
+levels
+or as extremes
+where it could be worth considering
+buying and selling to and from.
+And these are let's say the most
+statistically reliable
+references
+and they are widely used for best
+execution algorithm in the institutional
+space.
+So they will if they want to sell for
+that session they will try their best to
+fill
+above here and if they buy they'll try
+their best to fill below here.
+And that's just some what some what a
+lot of firms do in case they have big
+orders to pour into the market and they
+want to have a better field. They just
+take the VWAP as a reference and fill
+above or below based on their uh trade
+direction. So that's why this is such a
+powerful tool. This is a powerful
+institutional reference that you can
+plot on top of your analysis. Don't
+overuse it. Um or
+maybe just you know focus but don't try
+and put too many things on the chart.
+Just take it as a reference. Uh but as a
+reference that is backed by money is
+backed by institutional order flow and
+by statistical analysis.

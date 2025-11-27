@@ -1,0 +1,564 @@
+Hi and welcome back to this orderflow
+course. In this section, we'll take a
+look at SE session dynamics
+and understand the flow and the rhythm
+of the order flow
+throughout every single day. Starting by
+saying that there we have two main
+session which is the extended or
+electronic trading hours and the regular
+trading hours.
+And they are two radically different
+sessions that you can simply spot if you
+have a normal chart
+from volume because you'll see you're
+going to have a lot of volume in this
+session and then basically zero then a
+lot of volume
+and then not a lot of volume and then a
+lot of volume.
+That is because
+the official bell of the American stock
+markets and of the CME starts
+at 9:30 local time, 3:30 Central
+European time, and ends at 400 p.m.
+local time, 1000 p.m. Central European
+time.
+And that's our regular trading hours
+session, also known as cash session
+because that's where most of the money
+is traded, where most of the big
+movement comes, where most of the smart
+money trades.
+In the meantime though
+some movement might might happen where
+you have the Asian session, the London
+session with slightly more volume and
+activity and then again American market
+session
+and the way orderflow behaves in these
+type of sessions and in the ext in the
+extended trading hours is radically
+different. Orderflow anomalies will work
+way better during these times of day
+because if there's a big fish, he's
+going to be one of the few ones in these
+sessions here. You'll have to read into
+the war of a lot of big fishes of whales
+and sharks and everyone is there joining
+the party. HFTs, all sorts of traders,
+you know, much more volume, much more
+money, much more data to take into
+consideration
+here.
+You're going to have a lot of silence
+for a long time, but when you see a big
+trader, you just see it. It's just
+obvious.
+Okay? And that's the main difference
+between the regular trading hour and the
+extended trading hours.
+
+27
+Hi and welcome to session dynamics 102
+opening and closing auction. An
+important part of the rhythm of the
+money flow is the first part of the
+session and the last part of a session.
+And
+what you will see if you look at a
+normal volume chart, you'll see a lot of
+volume at the beginning, then drying up,
+maybe some spikes here and there in the
+middle, typically during breakouts or
+doing the reversals,
+and then at the end, the very peak
+of volume.
+And that happens because
+before market opens,
+traders of all sizes and all sorts
+can
+send the exchange something called
+market on open orders. So orders that
+will be executed by the exchange in the
+first few minutes of the market auction.
+And you will typically have
+released in financialjw.com which is a
+free website for looking at news. This
+is a data that you know you can you know
+it's provided directly by the exchanges.
+You will have a market on open imbalance
+that for example in this case was
+bearish. And as you can see the first
+candle the first volume was with a very
+green sorry with a very um purple delta.
+So the market on open imbalance tells us
+is there an imbalance between buying and
+selling either aggressive or passive
+and how much is that
+throughout the session. Then
+market participants of all sorts will
+try to fill all of their orders but they
+might not be able to fill all of them.
+So the orders that they will not they
+were not able to fill throughout the
+sessions will enter the market at the
+end of the session on the form of market
+on close orders and
+the exchange will release a market on
+close imbalance.
+An imbalance between buyers and sellers
+of market on close orders. And even here
+you can see on the S&P 500 we have minus
+92 million. It's not much. We normally
+see way more.
+And you had a purple
+clear
+selling delta
+type of volume. And that's where most
+like the the single biggest volume
+candle happens in every single session.
+Okay, this is another session. It's
+exactly the same. Little more at the
+beginning,
+pretty stable throughout the first part
+of the session, low in the middle, then
+typically
+higher volume in the so-called power
+hour. So, the last, let's say, next few
+hours of the session, and then the big
+boom of volume, which is normally
+completely absorbed, by the way. This
+normally does not very often cause big
+price movement in the last five minutes
+of the session because it's just a
+settlement type of orderflow and it's
+mostly, you know, filled mostly at the
+same price. So that you're not going to
+see a lot of um
+movement typically in these parts of the
+session. But let's take an example.
+Let's take a let's take a look. Let's
+take directly a look. And if you zoom
+out with this type of template, you can
+also see in a different way that this is
+the extended trading hours and this is
+the regular trading hours. More volume,
+more color, more delta, more color. And
+at the market on open you will have a
+lot of volume,
+a lot of trading activity,
+a lot of absorptions going on here and
+there,
+a lot of darkness, a lot of delta and
+big price swings.
+Not always, but very often.
+Then we wait until the end of the
+session. We go to the end
+and here you see we get close to the
+closing of the session and you see most
+of the volume being traded
+the highest concentration of volume in
+few candles and you'll see a lot of 1K
+2K 1K a lot of volumes in the last part
+of the cash cash session a lot of
+absorption there's a feast of market
+makers right at the end of the session
+because they know there's a lot of
+orders so they provide liquidity and
+the candle of
+2159 European time, 359
+local time will typically have a lot of
+contracts. The biggest one for 4 44,000
+contracts in a single candle. Okay? And
+that's the closing auction. That's what
+happens because all of these market and
+close orders are entering the market.
+This is a very important thing you need
+to know about the auctions in indices
+and you know in most um futures trading
+at the CME.
+
+28
+Hi and welcome back to orderflow mastery
+course by deep charts session dynamics
+103. We're going to take a look at the
+typical daily auctions. So how does a
+session typically
+forms out?
+you have you can distinguish between
+clear directional sessions. So you're
+going to see a lot of session that
+starts directional and just keep going
+for the entire session and then
+find a balance. This one is an example.
+Okay. And that's what you're typically
+going to see
+if in the first part of the session
+there's a big amount
+of price variation.
+most of the average daily sorry daily
+range ADR or ATR average true range
+which is let's say the average excursion
+of price in a single session which we
+could say maybe for uh stock an average
+for you know the stock market for the
+S&P 500 and an average session might go
+one%
+up or 1% down very rough estimate well
+if in the first part of the session we
+already did plus 0.9%.
+We went up almost 1% in the first part
+of the session. There's a higher chance
+that after all of this aggressive
+buying, we'll find finally a situation
+of balance. Okay?
+And this is typically what happens. If
+most of the movement happened in the
+first part of the day, you're going to
+see less volatility in the power hour
+and most likely
+consolidation at the end of the session,
+which if you are trading
+momentum or you're trading breakouts
+might not be the optimal scenario for
+you.
+Then you're going to find situations
+where you have
+market starting from a situation of
+balance. Okay.
+And then pumping up
+and you'll see high volume during the
+breakout. Maybe a pullback. That's a
+great idea. And if you want to take a
+breakout trade, this is a good idea. If
+you want to trade it here, well, we have
+a high potential for volatility
+throughout that day and then maybe
+closing once
+at least 50 to 60% of the ATR
+have been fulfilled just like here,
+right? Like this range breakout test
+likely a lot of volume here. Awesome. we
+trade and as soon as we see some
+consolidation, we get the [ __ ] out and
+that's our trade.
+Another type of session that is often
+common is a V- reversal session. A
+session where it begins with
+a very directional auction, typically
+sell, but could be also a buy side
+auction
+and then a V reversal.
+So,
+not a lot of this very directional day,
+but a very volatile day where price
+swings can also be very
+deep and retracements can be very deep.
+For example, here we open down and then
+we moved up for the entire session and
+then we closed here.
+And in these types of situation, you
+might opt if you're a breakout trader
+and you simply break out. Those days
+could be a little bit annoying for you.
+If you are a reversal trader that for
+example here there's a big value area
+zone, you know, and price opened here.
+So maybe the last session closed here.
+So you might expect a gap fill and so
+you wait for this and then maybe buy it
+back.
+that can be a a good scenario for you.
+Other sessions, and these are my least
+favorite, is
+the entirety of the session goes fully
+sideways. This doesn't happen very
+often, but when when it happens, it's
+very annoying for especially for, you
+know, breakout traders. For rangebound
+trader, this is like the best day ever,
+right?
+Because here you can trade failed
+auctions all day long. Literally all day
+long.
+And in these type of sessions during the
+power hour, so let's say after let's say
+1:00 p.m. local time or
+700 p.m. Central European time. That's
+when you get all of the directional
+flow.
+And maybe you you just wait all of the
+day for a breakout that does not happen.
+And if you constantly try and trade the
+breakout, you get stopped, stopped,
+stopped, stopped
+and maybe you give up. Your trades for
+the day are gone and then market
+eventually goes. You know that can be
+annoying for breakout traders.
+But all of these sessions are common.
+All of these session are very likely to
+happen.
+But it's a it's a very clear framework
+to understand what type of session we
+might be in today.
+29
+Hi and welcome back to orderflow mastery
+session dynamics 104.
+In this lesson, we'll take a look at the
+initial balance breakout, which is one
+of the highest performing historically
+price action, let's say, patterns or
+let's say statistically valid edge in
+the markets. And the initial balance
+breakout is something very simple. Um,
+it basically takes the first 15 minutes
+or 30 minutes
+or 60 minutes of the session.
+It takes that range
+or that candle, plots the high plus the
+low and whenever there's a candle
+breaking out from that at the lower time
+frame, for example, five minute time
+frame,
+you buy
+or
+you sell.
+This is a very
+I would say not very but decently old
+strategy
+uh invented in the 1990s
+that has demonstrated to have a very
+consistent edge throughout decades.
+Okay, this is one example. You take this
+is a five-minute chart. So you count
+one, this is the first candle, two,
+three, these are your 15 minutes. You
+take the high, take the low, and you
+trade the breakout. And that's a good
+trade.
+And this is the performance of
+a opening range breakout strategy
+risking 2% per trade
+compared to the performance of just
+buying and holding the S&P 500 started
+from 2021
+till more or less today.
+And you can see that it has a better
+sharp ratio, a smoother equity line and
+a clear edge especially in times of very
+directional markets.
+In periods where maybe market are not
+that directional
+then this might suffer and you could
+have you know
+entire years where the performance is
+not great. This is a long-term
+perspective. Okay? So, this is just a a
+bias, right? More or less 70% of the
+time when there's an opening range
+breakout, you have some level of
+excursion. Okay? It's not 100%, guys.
+It's not 100%. So if you're going to use
+this type of model that then Fabio has
+um
+put on steroids with the IVB model which
+is the initial volume breakout that he
+will explain to you and that is
+available in the deep charts full
+version. Don't expect a 100% win rate
+there can be
+long periods of time where you don't see
+a lot of profit. That's that's
+completely normal because that's you
+know a different type this is a very
+mechanical edge right but with the right
+context with volume analysis with
+orderflow you can qualify breakouts in a
+way that just by looking at cand candles
+you simply can't
+because the money will tell us if that
+breakout will hold or not.
+But it's an edge that has a consistency,
+a very mechanical base because it's a
+very easy strategy. It's not no big
+deal, but that you can build on top of
+that
+your discretional narrative thanks to
+real orderflow data.
+So let's take the last
+session as an example.
+So the first 15 minutes
+we had this as the low and
+this
+45 this as the high of the opening
+range.
+So this is our opening range
+and what you want to see is a breakout
+above and the breakout happens.
+Let's put ourselves in the fivem minute
+time frame just to have
+so I'm going to load my favorite
+fiveminut template. So for example, we
+take a look
+at what the volume does above here in
+the five minute
+and we might see that
+there's a lot of aggressive selling that
+is completely and utterly absorbed. So
+there's a lot of volume, right? Volume
+is increasing. There's a lot of volume
+activity.
+which means interest, which means
+participation, which means the smart
+money is there. But look at what
+happened.
+Yeah, it's all purple. But why? Because
+look at this. All of this absorption of
+sellers. Sellers tried to go here, but
+they were completely absorbed from
+buyers. So buyers are more active on the
+passive side.
+They completely absorb all sorts of
+seller.
+And that's a very clear indication that
+this breakout
+is very likely
+going to continue. And there you go.
+Again, also here, absorption at the
+bottoms, exhaustion,
+big imbalance
+again at the top, a lot of sellers. What
+happens to them? They're all absorbed.
+This is the clearest you can get
+on market mechanics. And this is how you
+can take something very basic as a
+opening range breakout or an initial
+volume breakout, an initial balance and
+thanks to volume being able to take
+advantage of that with a very very clear
+bias to begin with.
+
+30
+Hi and welcome back to the last uh
+session dynamics
+lesson 105 RTH gap fill. And the RTH gap
+fill is nothing more than a gap between
+the closing
+price of the previous regular trading
+hour session or the cash session
+and the opening of the new one. If there
+is a gap between them, we have a 68%
+chance that it will get refilled. This
+is another structural edge
+of ES and NASDAQ just like
+the opening range breakout. So these are
+very mechanical ideas, very mechanical
+edges where you on top of that can build
+your discretionary narrative to
+get to know orderflow a little bit
+better but basing basing it on something
+very solid to begin with to build to
+start building the right habits. So in a
+situation like this you might for
+example see that here you have a very
+big volume area that we can likely
+bounce. we have a great deal of chance
+that we'll fill this up. So, what I
+would do here is maybe either wait for a
+very big
+signal or let's say u
+good indication that buyers are in
+control and either join the train on the
+way or wait for a new consolidation
+phase to happen and a breakout out of
+that. So fractally looking for an
+auction higher with you know ranges and
+wait for a breakout in the same fashion
+and stop below here target here. Really
+easy trade. Really easy easy trade. You
+don't have to over complicate it. You
+can take a bias by looking at
+where we are in the volume profile. If
+we're inside and we want to ping pong,
+if we're breaking out and want to look
+at volume to continue
+or you take the opening range breakout
+and look at what happens during the
+breakouts. If there's an initiative, if
+there's volume, if there's initiative,
+we continue.
+Or same thing if this was the previous
+session and now the previous session
+opens here the next session open here
+there's a gap perfect I'll try and sell
+it as soon as I see some aggressive
+selling kicking in and market auctioning
+lower and lower these are two very three
+four very simple ways to start
+implementing orderflow analysis as a
+confirmation for your entries given a
+volume bias
+or a statistical bias. Also, this
+strategy, by the way, something similar
+to this, um, has a decent edge overall.
+So, this is a structural edge again. Um,
+but this one, I would say, need a needs
+a little bit more context. And let's try
+now. Something very easy you can do is
+click here and just delete and not have
+the extended trading hour section on
+chart. and you're basically going to
+find yourself with a chart that by
+itself just has the regular trading
+hours without having to, you know,
+create a custom session and all of that
+stuff. So, we're going to wait for this
+to load.
+Yep. And in this situation, it's very
+awesome because you had both edges at
+the same time.
+Let's take off the volume profile.
+You had both a gap to fill and an
+opening range breakout. I mean, that's
+just free money, as Fabio would say.
+You have all the confirmations we talked
+about before,
+plus an opening range breakout, plus a
+gap fill. So, you had your target
+preset.
+Absolutely phenomenal.
+So we break the opening range breakout.
+So we have a very high probability that
+we'll continue up. Plus we have a gap
+that we have a very high probability of
+filling. Plus the auction is on our
+favor and buyers are absorbing any
+sellers that tries to go lower.
+This is just like very very high
+percentage win rate stuff. And you can
+just simply wait for a session like
+this. You wait for a session to gap
+down. You wait for an opening range to
+be broken up. You see if there's a lot
+of volume. And this is a extremely high
+probability setup. Extremely high.
+And this is how you take orderflow and
+contextualize it with an edge
+that is very very solid.
+So
+this was the orderflow mastery course.
+We've been through all of the trading
+tools that orderflow can provide. All of
+the market mechanics that goes around
+it. All of the auction market theory
+model
+that models the money flow. We've
+understood the rhythm of the money flow
+and some statistical edges based on the
+rhythm of the money flow where we can
+then use auction dynamics, short-term
+auction dynamics in the footprint charts
+to time our entries
+with confidence.
